@@ -1,0 +1,534 @@
+review_id,location,date,platform,text,rating,label_sentiment,label_aspects,label_high_risk
+R00000,Malviya Nagar,2026-08-31,Google,The dal makhani was cold and tasteless. The washroom was filthy. Nobody seemed to care about the customers.,1,negative,"cleanliness,food,service",0
+R00001,C-Scheme,2026-08-31,Google,The waiter was careless and got our order wrong. Food was stale and bland.,1,negative,"food,service",0
+R00002,C-Scheme,2026-08-31,Google,"Visited on a weekend. Food arrived quickly. Excellent service, they remembered our order!",5,positive,"service,wait_time",0
+R00003,Vaishali Nagar,2026-08-31,Google,Visited on a weekend. Great taste and the masala dosa was fresh. Totally worth what we paid.,4,positive,"food,price",0
+R00004,Vaishali Nagar,2026-08-31,Google,"Cutlery looked unwashed, pretty gross! The biryani tasted off and disappointing.",1,negative,"cleanliness,food",0
+R00005,Mansarovar,2026-08-31,Google,Lunch visit. Impressively hygienic restaurant! Affordable and filling!,5,positive,"cleanliness,price",0
+R00006,Mansarovar,2026-08-31,Google,"Lunch visit. Excellent service, they remembered our order! Totally worth what we paid.",5,positive,"price,service",0
+R00007,Mansarovar,2026-08-31,Google,Too noisy and cramped.,2,negative,ambiance,0
+R00008,Mansarovar,2026-08-31,Google,"The team went out of their way to help us. Loved the dal makhani, so flavourful. Food arrived quickly.",5,positive,"food,service,wait_time",0
+R00009,Malviya Nagar,2026-09-01,Zomato,Visited on a weekend. Fine for a quick meal.,3,neutral,,0
+R00010,Malviya Nagar,2026-09-01,Google,"Tables and washrooms were very clean. Excellent service, they remembered our order. Best masala dosa I've had in Jaipur!",5,positive,"cleanliness,food,service",0
+R00011,Malviya Nagar,2026-09-01,Google,Lunch visit. Nothing special.,3,neutral,,0
+R00012,Malviya Nagar,2026-09-01,Google,Visited on a weekend. Crowded and chaotic atmosphere. Manager was dismissive when we complained!,2,negative,"ambiance,service",0
+R00013,Malviya Nagar,2026-09-01,Zomato,Came with family. Cozy decor and nice music. Tables and washrooms were very clean.,5,positive,"ambiance,cleanliness",0
+R00014,C-Scheme,2026-09-01,Zomato,Came with family. Beautiful seating and a relaxed vibe.,4,positive,ambiance,0
+R00015,C-Scheme,2026-09-01,Google,"Lunch visit. Lovely ambience, great for family dinners. dal makhani was cooked to perfection.",4,positive,"ambiance,food",0
+R00016,C-Scheme,2026-09-01,Google,Staff were rude and ignored us.,1,negative,service,0
+R00017,C-Scheme,2026-09-01,Google,The place was spotless. Service was fast even on a busy night.,5,positive,"cleanliness,wait_time",0
+R00018,C-Scheme,2026-09-01,Instagram,"masala dosa was cooked to perfection. However, cutlery looked unwashed, pretty gross!",3,neutral,"cleanliness,food",0
+R00019,Vaishali Nagar,2026-09-01,Zomato,Food arrived quickly! Impressively hygienic restaurant. Staff were warm and attentive.,4,positive,"cleanliness,service,wait_time",0
+R00020,Vaishali Nagar,2026-09-01,Zomato,Visited on a weekend. Not worth the money at all. Tables were dirty and sticky!,3,negative,"cleanliness,price",0
+R00021,Mansarovar,2026-09-01,Zomato,Tables were dirty and sticky.,1,negative,cleanliness,0
+R00022,Mansarovar,2026-09-01,Instagram,Staff were warm and attentive. Tables and washrooms were very clean!,5,positive,"cleanliness,service",0
+R00023,Malviya Nagar,2026-09-02,Instagram,Average experience.,3,neutral,,0
+R00024,Malviya Nagar,2026-09-02,Google,Tables and washrooms were very clean.,5,positive,cleanliness,0
+R00025,C-Scheme,2026-09-02,Instagram,Nobody seemed to care about the customers. The thali tasted off and disappointing. The washroom was filthy.,2,negative,"cleanliness,food,service",0
+R00026,C-Scheme,2026-09-02,Google,Dinner here last night. Affordable and filling! Polite and welcoming staff. Service was fast even on a busy night.,5,positive,"price,service,wait_time",0
+R00027,Vaishali Nagar,2026-09-02,Google,"Dinner here last night. The place was spotless. However, staff were rude and ignored us!",3,neutral,"cleanliness,service",0
+R00028,Vaishali Nagar,2026-09-02,Zomato,"Loved the biryani, so flavourful. Service was fast even on a busy night.",5,positive,"food,wait_time",0
+R00029,Vaishali Nagar,2026-09-02,Google,Dinner here last night. The paneer tikka tasted off and disappointing!,1,negative,food,0
+R00030,Mansarovar,2026-09-02,Google,Came with family. The AC was broken and it was unbearably hot!,2,negative,ambiance,0
+R00031,Mansarovar,2026-09-02,Google,"Great value for money! No wait at all, seated immediately.",4,positive,"price,wait_time",0
+R00032,Mansarovar,2026-09-02,Zomato,Came with family. It was okay.,3,neutral,,0
+R00033,Malviya Nagar,2026-09-03,Google,Visited on a weekend. Food took forever to arrive.,1,negative,wait_time,0
+R00034,Malviya Nagar,2026-09-03,Google,Lunch visit. Nobody seemed to care about the customers. The AC was broken and it was unbearably hot!,1,negative,"ambiance,service",0
+R00035,C-Scheme,2026-09-03,Google,"Impressively hygienic restaurant. However, nobody seemed to care about the customers.",3,neutral,"cleanliness,service",0
+R00036,C-Scheme,2026-09-03,Zomato,Cozy decor and nice music! Affordable and filling. Best paneer tikka I've had in Jaipur.,4,positive,"ambiance,food,price",0
+R00037,C-Scheme,2026-09-03,Google,Manager was dismissive when we complained! Painfully slow service.,1,negative,"service,wait_time",0
+R00038,Vaishali Nagar,2026-09-03,Zomato,Came with family. Impressively hygienic restaurant! The team went out of their way to help us. The butter chicken was absolutely delicious.,5,positive,"cleanliness,food,service",0
+R00039,Vaishali Nagar,2026-09-03,Google,Too noisy and cramped! Way too expensive for such small portions.,1,negative,"ambiance,price",0
+R00040,Vaishali Nagar,2026-09-03,Zomato,Nothing special.,3,neutral,,0
+R00041,Mansarovar,2026-09-03,Zomato,Dinner here last night. Service was fast even on a busy night.,5,positive,wait_time,0
+R00042,Mansarovar,2026-09-03,Zomato,Best thali I've had in Jaipur. Staff were warm and attentive. Cozy decor and nice music.,5,positive,"ambiance,food,service",0
+R00043,Mansarovar,2026-09-03,Instagram,Visited on a weekend. The paneer tikka was absolutely delicious. Very reasonable prices for the portion size.,4,positive,"food,price",0
+R00044,Malviya Nagar,2026-09-04,Google,Affordable and filling.,5,positive,price,0
+R00045,Malviya Nagar,2026-09-04,Zomato,Came with family. Staff were rude and ignored us. Crowded and chaotic atmosphere.,1,negative,"ambiance,service",0
+R00046,Malviya Nagar,2026-09-04,Google,Lunch visit. Average experience.,3,neutral,,0
+R00047,C-Scheme,2026-09-04,Google,The place was spotless. Service was fast even on a busy night.,4,positive,"cleanliness,wait_time",0
+R00048,Vaishali Nagar,2026-09-04,Google,Food arrived quickly. Our server was super helpful and friendly. Totally worth what we paid.,4,positive,"price,service,wait_time",0
+R00049,Vaishali Nagar,2026-09-04,Google,Totally worth what we paid. Impressively hygienic restaurant.,5,positive,"cleanliness,price",0
+R00050,Vaishali Nagar,2026-09-04,Zomato,"Cozy decor and nice music. However, the washroom was filthy.",3,neutral,"ambiance,cleanliness",0
+R00051,Mansarovar,2026-09-04,Zomato,Lunch visit. It was okay.,3,neutral,,0
+R00052,Malviya Nagar,2026-09-05,Google,Dinner here last night. Too noisy and cramped. Overcooked butter chicken and no flavour.,1,negative,"ambiance,food",0
+R00053,Malviya Nagar,2026-09-05,Google,"Came with family. Totally worth what we paid! No wait at all, seated immediately.",5,positive,"price,wait_time",0
+R00054,C-Scheme,2026-09-05,Instagram,Lunch visit. Tables were dirty and sticky. The masala dosa was cold and tasteless.,1,negative,"cleanliness,food",0
+R00055,C-Scheme,2026-09-05,Zomato,"Came with family. The place was spotless. However, very oily biryani, not worth eating!",3,neutral,"cleanliness,food",0
+R00056,C-Scheme,2026-09-05,Google,Came with family. Food arrived quickly!,5,positive,wait_time,0
+R00057,Vaishali Nagar,2026-09-05,Google,"Service was fast even on a busy night! Lovely ambience, great for family dinners.",5,positive,"ambiance,wait_time",0
+R00058,Vaishali Nagar,2026-09-05,Google,Visited on a weekend. Food took forever to arrive. Too noisy and cramped. Nobody seemed to care about the customers.,2,negative,"ambiance,service,wait_time",0
+R00059,Vaishali Nagar,2026-09-05,Google,Overpriced for what you get. Tables were dirty and sticky! The AC was broken and it was unbearably hot.,2,negative,"ambiance,cleanliness,price",0
+R00060,Mansarovar,2026-09-05,Google,Service was fast even on a busy night.,5,positive,wait_time,0
+R00061,Mansarovar,2026-09-05,Google,Great taste and the dal makhani was fresh. Food arrived quickly.,4,positive,"food,wait_time",0
+R00062,Mansarovar,2026-09-05,Zomato,Lunch visit. Service was fast even on a busy night. The chole bhature was absolutely delicious.,4,positive,"food,wait_time",0
+R00063,Malviya Nagar,2026-09-06,Instagram,"Dinner here last night. The food here never disappoints. Lovely ambience, great for family dinners. Excellent service, they remembered our order.",5,positive,"ambiance,food,service",0
+R00064,C-Scheme,2026-09-06,Google,Overpriced for what you get.,1,negative,price,0
+R00065,Vaishali Nagar,2026-09-06,Google,Dinner here last night. pasta was cooked to perfection.,5,positive,food,0
+R00066,Vaishali Nagar,2026-09-06,Google,"Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+R00067,Vaishali Nagar,2026-09-06,Google,Lunch visit. Nobody seemed to care about the customers. Way too expensive for such small portions!,2,negative,"price,service",0
+R00068,Mansarovar,2026-09-06,Google,Great value for money. chole bhature was cooked to perfection.,4,positive,"food,price",0
+R00069,Mansarovar,2026-09-06,Google,Came with family. Staff were warm and attentive! The biryani was absolutely delicious!,5,positive,"food,service",0
+R00070,Mansarovar,2026-09-06,Instagram,Staff were warm and attentive. Tables and washrooms were very clean.,5,positive,"cleanliness,service",0
+R00071,Mansarovar,2026-09-06,Google,Lunch visit. Staff were warm and attentive.,2,positive,service,0
+R00072,Mansarovar,2026-09-06,Google,Tables and washrooms were very clean. Best butter chicken I've had in Jaipur!,5,positive,"cleanliness,food",0
+R00073,Mansarovar,2026-09-06,Google,"Dinner here last night. The food here never disappoints. However, painfully slow service.",3,neutral,"food,wait_time",0
+R00074,Malviya Nagar,2026-09-07,Google,"Loved the thali, so flavourful.",5,positive,food,0
+R00075,Malviya Nagar,2026-09-07,Instagram,Very reasonable prices for the portion size.,5,positive,price,0
+R00076,C-Scheme,2026-09-07,Google,"Our server was super helpful and friendly. However, too noisy and cramped.",3,neutral,"ambiance,service",0
+R00077,C-Scheme,2026-09-07,Instagram,Dinner here last night. Impressively hygienic restaurant! Staff were warm and attentive.,5,positive,"cleanliness,service",0
+R00078,C-Scheme,2026-09-07,Google,Dinner here last night. masala dosa was cooked to perfection. Cozy decor and nice music. Very reasonable prices for the portion size.,5,positive,"ambiance,food,price",0
+R00079,Vaishali Nagar,2026-09-07,Google,Staff were warm and attentive. Impressively hygienic restaurant. Very reasonable prices for the portion size.,5,positive,"cleanliness,price,service",0
+R00080,Vaishali Nagar,2026-09-07,Google,"Visited on a weekend. Impressively hygienic restaurant! Excellent service, they remembered our order!",5,positive,"cleanliness,service",0
+R00081,Vaishali Nagar,2026-09-07,Google,"Our server was super helpful and friendly! However, too noisy and cramped.",3,neutral,"ambiance,service",0
+R00082,Vaishali Nagar,2026-09-07,Google,butter chicken was cooked to perfection. Impressively hygienic restaurant. Food arrived quickly.,4,positive,"cleanliness,food,wait_time",0
+R00083,Mansarovar,2026-09-07,Zomato,"Lunch visit. Very oily masala dosa, not worth eating. The washroom was filthy.",2,negative,"cleanliness,food",0
+R00084,Mansarovar,2026-09-07,Instagram,Cozy decor and nice music. The team went out of their way to help us.,5,positive,"ambiance,service",0
+R00085,Malviya Nagar,2026-09-08,Instagram,Came with family. Polite and welcoming staff. Food arrived quickly! Impressively hygienic restaurant.,5,positive,"cleanliness,service,wait_time",0
+R00086,Malviya Nagar,2026-09-08,Google,Visited on a weekend. Overpriced for what you get! Food took forever to arrive!,2,negative,"price,wait_time",0
+R00087,C-Scheme,2026-09-08,Instagram,It was okay.,3,neutral,,0
+R00088,C-Scheme,2026-09-08,Google,"Lunch visit. Staff were warm and attentive! Very reasonable prices for the portion size. No wait at all, seated immediately.",5,positive,"price,service,wait_time",0
+R00089,C-Scheme,2026-09-08,Google,Visited on a weekend. Beautiful seating and a relaxed vibe.,5,positive,ambiance,0
+R00090,Vaishali Nagar,2026-09-08,Instagram,"Came with family. Very reasonable prices for the portion size. However, food was stale and bland.",3,neutral,"food,price",0
+R00091,Vaishali Nagar,2026-09-08,Google,Totally worth what we paid.,5,positive,price,0
+R00092,Vaishali Nagar,2026-09-08,Instagram,Polite and welcoming staff. Totally worth what we paid.,5,positive,"price,service",0
+R00093,Vaishali Nagar,2026-09-08,Zomato,Dinner here last night. Average experience.,3,neutral,,0
+R00094,Mansarovar,2026-09-08,Google,"Our server was super helpful and friendly. However, painfully slow service.",3,neutral,"service,wait_time",0
+R00095,Mansarovar,2026-09-08,Zomato,"Staff were warm and attentive! However, cutlery looked unwashed, pretty gross.",3,neutral,"cleanliness,service",0
+R00096,Malviya Nagar,2026-09-09,Google,Dinner here last night. Overpriced for what you get. Food took forever to arrive. The AC was broken and it was unbearably hot!,4,negative,"ambiance,price,wait_time",0
+R00097,Malviya Nagar,2026-09-09,Google,Came with family. Beautiful seating and a relaxed vibe! Totally worth what we paid. Impressively hygienic restaurant.,5,positive,"ambiance,cleanliness,price",0
+R00098,C-Scheme,2026-09-09,Zomato,The place was spotless.,4,positive,cleanliness,0
+R00099,C-Scheme,2026-09-09,Google,Dinner here last night. Average experience.,3,neutral,,0
+R00100,Vaishali Nagar,2026-09-09,Google,Visited on a weekend. Service was fast even on a busy night! Affordable and filling! Polite and welcoming staff.,2,positive,"price,service,wait_time",0
+R00101,Mansarovar,2026-09-09,Instagram,Impressively hygienic restaurant. Beautiful seating and a relaxed vibe. Very reasonable prices for the portion size.,4,positive,"ambiance,cleanliness,price",0
+R00102,Mansarovar,2026-09-09,Zomato,Our server was super helpful and friendly.,5,positive,service,0
+R00103,Malviya Nagar,2026-09-10,Google,"Dinner here last night. Lovely ambience, great for family dinners. Our server was super helpful and friendly. No wait at all, seated immediately.",4,positive,"ambiance,service,wait_time",0
+R00104,C-Scheme,2026-09-10,Instagram,"Dinner here last night. Cutlery looked unwashed, pretty gross. Painfully slow service!",1,negative,"cleanliness,wait_time",0
+R00105,C-Scheme,2026-09-10,Google,Not worth the money at all.,2,negative,price,0
+R00106,C-Scheme,2026-09-10,Google,"Great taste and the paneer tikka was fresh. Lovely ambience, great for family dinners. The place was spotless.",4,positive,"ambiance,cleanliness,food",0
+R00107,C-Scheme,2026-09-10,Zomato,"Lunch visit. The team went out of their way to help us. However, way too expensive for such small portions.",3,neutral,"price,service",0
+R00108,Vaishali Nagar,2026-09-10,Google,Visited on a weekend. Nothing special.,3,neutral,,0
+R00109,Vaishali Nagar,2026-09-10,Google,Visited on a weekend. Food arrived quickly.,4,positive,wait_time,0
+R00110,Vaishali Nagar,2026-09-10,Google,Service was fast even on a busy night. Tables and washrooms were very clean!,5,positive,"cleanliness,wait_time",0
+R00111,Mansarovar,2026-09-10,Google,"Dinner here last night. Great taste and the paneer tikka was fresh. Totally worth what we paid. Excellent service, they remembered our order.",5,positive,"food,price,service",0
+R00112,Mansarovar,2026-09-10,Google,Service was fast even on a busy night. Cozy decor and nice music. Affordable and filling.,5,positive,"ambiance,price,wait_time",0
+R00113,Mansarovar,2026-09-10,Google,Waited 50 minutes for our food. The AC was broken and it was unbearably hot!,1,negative,"ambiance,wait_time",0
+R00114,Mansarovar,2026-09-10,Google,Dinner here last night. Totally worth what we paid.,5,positive,price,0
+R00115,Mansarovar,2026-09-10,Instagram,Service was fast even on a busy night. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,wait_time",0
+R00116,Malviya Nagar,2026-09-11,Google,Dinner here last night. Cozy decor and nice music. Great taste and the dal makhani was fresh.,4,positive,"ambiance,food",0
+R00117,Malviya Nagar,2026-09-11,Zomato,Great taste and the butter chicken was fresh. Tables and washrooms were very clean. Totally worth what we paid.,5,positive,"cleanliness,food,price",0
+R00118,Malviya Nagar,2026-09-11,Google,Visited on a weekend. The pasta was cold and tasteless! Crowded and chaotic atmosphere. Overpriced for what you get.,1,negative,"ambiance,food,price",0
+R00119,Malviya Nagar,2026-09-11,Google,"Lunch visit. Great value for money. Lovely ambience, great for family dinners.",5,positive,"ambiance,price",0
+R00120,C-Scheme,2026-09-11,Google,"Lovely ambience, great for family dinners!",5,positive,ambiance,0
+R00121,C-Scheme,2026-09-11,Zomato,Visited on a weekend. Staff were warm and attentive. The place was spotless.,4,positive,"cleanliness,service",0
+R00122,C-Scheme,2026-09-11,Instagram,"Loved the paneer tikka, so flavourful. The place was spotless!",1,positive,"cleanliness,food",0
+R00123,C-Scheme,2026-09-11,Google,Came with family. The washroom was filthy! Way too expensive for such small portions. Painfully slow service.,1,negative,"cleanliness,price,wait_time",0
+R00124,Vaishali Nagar,2026-09-11,Instagram,Staff were warm and attentive. Cozy decor and nice music!,4,positive,"ambiance,service",0
+R00125,Vaishali Nagar,2026-09-11,Zomato,"Dinner here last night. Beautiful seating and a relaxed vibe. However, overpriced for what you get.",3,neutral,"ambiance,price",0
+R00126,Mansarovar,2026-09-11,Google,Came with family. Too noisy and cramped. Not worth the money at all. Nobody seemed to care about the customers!,1,negative,"ambiance,price,service",0
+R00127,Mansarovar,2026-09-11,Google,Lunch visit. Great taste and the paneer tikka was fresh. Very reasonable prices for the portion size!,5,positive,"food,price",0
+R00128,Mansarovar,2026-09-11,Instagram,Came with family. Polite and welcoming staff. Impressively hygienic restaurant. Service was fast even on a busy night!,4,positive,"cleanliness,service,wait_time",0
+R00129,Mansarovar,2026-09-11,Instagram,"Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+R00130,Malviya Nagar,2026-09-12,Instagram,"Cutlery looked unwashed, pretty gross. The AC was broken and it was unbearably hot.",1,negative,"ambiance,cleanliness",0
+R00131,Malviya Nagar,2026-09-12,Google,Average experience.,3,neutral,,0
+R00132,Malviya Nagar,2026-09-12,Zomato,The chole bhature tasted off and disappointing.,1,negative,food,0
+R00133,C-Scheme,2026-09-12,Google,"Lunch visit. Lovely ambience, great for family dinners. Polite and welcoming staff.",1,positive,"ambiance,service",0
+R00134,C-Scheme,2026-09-12,Google,Visited on a weekend. Great value for money. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price",0
+R00135,Vaishali Nagar,2026-09-12,Instagram,"Dinner here last night. Excellent service, they remembered our order! Great value for money.",4,positive,"price,service",0
+R00136,Vaishali Nagar,2026-09-12,Google,Came with family. The food here never disappoints. The team went out of their way to help us.,5,positive,"food,service",0
+R00137,Vaishali Nagar,2026-09-12,Instagram,"Dinner here last night. Tables and washrooms were very clean. The biryani was absolutely delicious! No wait at all, seated immediately.",4,positive,"cleanliness,food,wait_time",0
+R00138,Mansarovar,2026-09-12,Google,The biryani tasted off and disappointing. The washroom was filthy.,2,negative,"cleanliness,food",0
+R00139,Mansarovar,2026-09-12,Zomato,Came with family. Overcooked butter chicken and no flavour.,2,negative,food,0
+R00140,Mansarovar,2026-09-12,Google,Staff were warm and attentive. Beautiful seating and a relaxed vibe.,4,positive,"ambiance,service",0
+R00141,Malviya Nagar,2026-09-13,Google,"Tables and washrooms were very clean! Lovely ambience, great for family dinners.",4,positive,"ambiance,cleanliness",0
+R00142,Malviya Nagar,2026-09-13,Google,Dinner here last night. Food arrived quickly. Beautiful seating and a relaxed vibe. Our server was super helpful and friendly.,5,positive,"ambiance,service,wait_time",0
+R00143,Malviya Nagar,2026-09-13,Google,Dinner here last night. Very reasonable prices for the portion size! The place was spotless!,5,positive,"cleanliness,price",0
+R00144,Malviya Nagar,2026-09-13,Google,Lunch visit. Cozy decor and nice music! Totally worth what we paid.,5,positive,"ambiance,price",0
+R00145,Malviya Nagar,2026-09-13,Google,Came with family. Average experience.,3,neutral,,0
+R00146,C-Scheme,2026-09-13,Google,"Dinner here last night. Loved the thali, so flavourful.",4,positive,food,0
+R00147,Vaishali Nagar,2026-09-13,Google,Nothing special.,3,neutral,,0
+R00148,Vaishali Nagar,2026-09-13,Google,Tables were dirty and sticky. Way too expensive for such small portions.,1,negative,"cleanliness,price",0
+R00149,Mansarovar,2026-09-13,Instagram,Visited on a weekend. Service was fast even on a busy night. Affordable and filling.,5,positive,"price,wait_time",0
+R00150,Mansarovar,2026-09-13,Zomato,"Lunch visit. Loved the biryani, so flavourful! Impressively hygienic restaurant.",5,positive,"cleanliness,food",0
+R00151,Mansarovar,2026-09-13,Zomato,"Dinner here last night. Loved the dal makhani, so flavourful! However, cutlery looked unwashed, pretty gross.",3,neutral,"cleanliness,food",0
+R00152,Mansarovar,2026-09-13,Google,Beautiful seating and a relaxed vibe! Tables and washrooms were very clean! Affordable and filling.,5,positive,"ambiance,cleanliness,price",0
+R00153,C-Scheme,2026-09-14,Google,"The team went out of their way to help us. However, the AC was broken and it was unbearably hot!",3,neutral,"ambiance,service",0
+R00154,Vaishali Nagar,2026-09-14,Google,Visited on a weekend. Cozy decor and nice music. The food here never disappoints.,5,positive,"ambiance,food",0
+R00155,Vaishali Nagar,2026-09-14,Instagram,Beautiful seating and a relaxed vibe. butter chicken was cooked to perfection. Affordable and filling!,5,positive,"ambiance,food,price",0
+R00156,Mansarovar,2026-09-14,Zomato,Came with family. The food here never disappoints. Staff were warm and attentive. Tables and washrooms were very clean!,4,positive,"cleanliness,food,service",0
+R00157,Mansarovar,2026-09-14,Google,Affordable and filling. Beautiful seating and a relaxed vibe.,4,positive,"ambiance,price",0
+R00158,Malviya Nagar,2026-09-15,Google,"Affordable and filling. However, the paneer tikka was cold and tasteless.",3,neutral,"food,price",0
+R00159,Malviya Nagar,2026-09-15,Instagram,"Staff were warm and attentive! Lovely ambience, great for family dinners.",4,positive,"ambiance,service",0
+R00160,C-Scheme,2026-09-15,Google,Dinner here last night. Decent but not memorable.,3,neutral,,0
+R00161,C-Scheme,2026-09-15,Instagram,Came with family. Tables were dirty and sticky. Crowded and chaotic atmosphere.,1,negative,"ambiance,cleanliness",0
+R00162,C-Scheme,2026-09-15,Instagram,"Visited on a weekend. No wait at all, seated immediately.",5,positive,wait_time,0
+R00163,C-Scheme,2026-09-15,Zomato,"Lovely ambience, great for family dinners!",5,positive,ambiance,0
+R00164,Vaishali Nagar,2026-09-15,Instagram,Came with family. Tables were dirty and sticky. Painfully slow service. Nobody seemed to care about the customers!,1,negative,"cleanliness,service,wait_time",0
+R00165,Vaishali Nagar,2026-09-15,Instagram,"The team went out of their way to help us. However, cutlery looked unwashed, pretty gross!",3,neutral,"cleanliness,service",0
+R00166,Vaishali Nagar,2026-09-15,Google,Dinner here last night. The waiter was careless and got our order wrong. The washroom was filthy.,2,negative,"cleanliness,service",0
+R00167,Mansarovar,2026-09-15,Zomato,Tables were dirty and sticky.,1,negative,cleanliness,0
+R00168,Mansarovar,2026-09-15,Google,The AC was broken and it was unbearably hot.,1,negative,ambiance,0
+R00169,Mansarovar,2026-09-15,Google,Decent but not memorable.,3,neutral,,0
+R00170,Mansarovar,2026-09-15,Instagram,Cozy decor and nice music.,5,positive,ambiance,0
+R00171,Malviya Nagar,2026-09-16,Google,The washroom was filthy. Manager was dismissive when we complained. The AC was broken and it was unbearably hot.,1,negative,"ambiance,cleanliness,service",0
+R00172,Malviya Nagar,2026-09-16,Zomato,Very reasonable prices for the portion size! Service was fast even on a busy night.,5,positive,"price,wait_time",0
+R00173,Malviya Nagar,2026-09-16,Zomato,Came with family. Our server was super helpful and friendly.,5,positive,service,0
+R00174,Malviya Nagar,2026-09-16,Google,Service was fast even on a busy night. Polite and welcoming staff. Affordable and filling.,4,positive,"price,service,wait_time",0
+R00175,Malviya Nagar,2026-09-16,Google,"No wait at all, seated immediately. Excellent service, they remembered our order. Loved the chole bhature, so flavourful.",5,positive,"food,service,wait_time",0
+R00176,C-Scheme,2026-09-16,Google,"Had to wait over an hour, ridiculous. The waiter was careless and got our order wrong.",1,negative,"service,wait_time",0
+R00177,C-Scheme,2026-09-16,Zomato,Lunch visit. Painfully slow service! Overcooked butter chicken and no flavour.,1,negative,"food,wait_time",0
+R00178,C-Scheme,2026-09-16,Google,"Dinner here last night. Food arrived quickly! However, staff were rude and ignored us!",3,neutral,"service,wait_time",0
+R00179,C-Scheme,2026-09-16,Google,Dinner here last night. Nobody seemed to care about the customers. Not worth the money at all!,1,negative,"price,service",0
+R00180,Vaishali Nagar,2026-09-16,Google,Cozy decor and nice music. Tables and washrooms were very clean!,2,positive,"ambiance,cleanliness",0
+R00181,Vaishali Nagar,2026-09-16,Google,"Very reasonable prices for the portion size. However, nobody seemed to care about the customers.",3,neutral,"price,service",0
+R00182,Mansarovar,2026-09-16,Google,"Food arrived quickly. Excellent service, they remembered our order!",4,positive,"service,wait_time",0
+R00183,Mansarovar,2026-09-16,Google,The team went out of their way to help us. masala dosa was cooked to perfection.,5,positive,"food,service",0
+R00184,Malviya Nagar,2026-09-17,Google,Came with family. Manager was dismissive when we complained.,2,negative,service,0
+R00185,Malviya Nagar,2026-09-17,Instagram,Dinner here last night. Waited 50 minutes for our food! Not worth the money at all. The washroom was filthy.,1,negative,"cleanliness,price,wait_time",0
+R00186,C-Scheme,2026-09-17,Google,"Excellent service, they remembered our order.",5,positive,service,0
+R00187,C-Scheme,2026-09-17,Google,"Lunch visit. No wait at all, seated immediately! Tables and washrooms were very clean.",5,positive,"cleanliness,wait_time",0
+R00188,C-Scheme,2026-09-17,Zomato,"Lunch visit. Lovely ambience, great for family dinners. Loved the masala dosa, so flavourful.",4,positive,"ambiance,food",0
+R00189,Vaishali Nagar,2026-09-17,Instagram,Our server was super helpful and friendly. Great value for money.,4,positive,"price,service",0
+R00190,Vaishali Nagar,2026-09-17,Google,Food arrived quickly! Polite and welcoming staff! Beautiful seating and a relaxed vibe.,4,positive,"ambiance,service,wait_time",0
+R00191,Vaishali Nagar,2026-09-17,Google,Best masala dosa I've had in Jaipur. Very reasonable prices for the portion size. Food arrived quickly.,5,positive,"food,price,wait_time",0
+R00192,Vaishali Nagar,2026-09-17,Zomato,Dinner here last night. The team went out of their way to help us! The place was spotless.,4,positive,"cleanliness,service",0
+R00193,Vaishali Nagar,2026-09-17,Instagram,"Dinner here last night. Beautiful seating and a relaxed vibe. No wait at all, seated immediately.",5,positive,"ambiance,wait_time",0
+R00194,Vaishali Nagar,2026-09-17,Google,"Beautiful seating and a relaxed vibe. However, the washroom was filthy.",3,neutral,"ambiance,cleanliness",0
+R00195,Mansarovar,2026-09-17,Instagram,Came with family. Nothing special.,3,neutral,,0
+R00196,Mansarovar,2026-09-17,Google,"Not worth the money at all. Too noisy and cramped. Had to wait over an hour, ridiculous.",1,negative,"ambiance,price,wait_time",0
+R00197,Malviya Nagar,2026-09-18,Instagram,"Visited on a weekend. Lovely ambience, great for family dinners!",5,positive,ambiance,0
+R00198,Malviya Nagar,2026-09-18,Google,Visited on a weekend. Great taste and the pasta was fresh.,5,positive,food,0
+R00199,Malviya Nagar,2026-09-18,Google,Visited on a weekend. Our server was super helpful and friendly. Tables and washrooms were very clean.,4,positive,"cleanliness,service",0
+R00200,Malviya Nagar,2026-09-18,Google,"Great value for money. However, painfully slow service.",3,neutral,"price,wait_time",0
+R00201,C-Scheme,2026-09-18,Zomato,"Dinner here last night. Service was fast even on a busy night. However, crowded and chaotic atmosphere!",3,neutral,"ambiance,wait_time",0
+R00202,C-Scheme,2026-09-18,Google,"Lunch visit. Excellent service, they remembered our order.",5,positive,service,0
+R00203,Vaishali Nagar,2026-09-18,Instagram,"Came with family. Great value for money. Lovely ambience, great for family dinners!",4,positive,"ambiance,price",0
+R00204,Vaishali Nagar,2026-09-18,Google,"Service was fast even on a busy night. However, overpriced for what you get.",3,neutral,"price,wait_time",0
+R00205,Vaishali Nagar,2026-09-18,Google,Average experience.,3,neutral,,0
+R00206,Vaishali Nagar,2026-09-18,Google,Lunch visit. Beautiful seating and a relaxed vibe! The biryani was absolutely delicious. The place was spotless.,5,positive,"ambiance,cleanliness,food",0
+R00207,Vaishali Nagar,2026-09-18,Google,"Visited on a weekend. Excellent service, they remembered our order. However, way too expensive for such small portions.",3,neutral,"price,service",0
+R00208,Mansarovar,2026-09-18,Google,Visited on a weekend. Crowded and chaotic atmosphere. Food took forever to arrive.,2,negative,"ambiance,wait_time",0
+R00209,Mansarovar,2026-09-18,Google,Beautiful seating and a relaxed vibe. Food arrived quickly!,5,positive,"ambiance,wait_time",0
+R00210,Mansarovar,2026-09-18,Google,Dinner here last night. It was okay.,3,neutral,,0
+R00211,Mansarovar,2026-09-18,Google,Lunch visit. Way too expensive for such small portions. Tables were dirty and sticky!,1,negative,"cleanliness,price",0
+R00212,Malviya Nagar,2026-09-19,Google,Lunch visit. Polite and welcoming staff! Affordable and filling.,5,positive,"price,service",0
+R00213,Malviya Nagar,2026-09-19,Google,The washroom was filthy!,1,negative,cleanliness,0
+R00214,Malviya Nagar,2026-09-19,Google,Great taste and the pasta was fresh. Staff were warm and attentive. Food arrived quickly!,5,positive,"food,service,wait_time",0
+R00215,Malviya Nagar,2026-09-19,Zomato,Visited on a weekend. Food was stale and bland!,1,negative,food,0
+R00216,C-Scheme,2026-09-19,Google,Came with family. Cozy decor and nice music.,5,positive,ambiance,0
+R00217,C-Scheme,2026-09-19,Google,Dinner here last night. Nothing special.,3,neutral,,0
+R00218,C-Scheme,2026-09-19,Google,Lunch visit. I'll be reporting this to the food safety department! Food took forever to arrive!,2,negative,"safety,wait_time",1
+R00219,Vaishali Nagar,2026-09-19,Instagram,"Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+R00220,Vaishali Nagar,2026-09-19,Instagram,Visited on a weekend. Very reasonable prices for the portion size.,4,positive,price,0
+R00221,Vaishali Nagar,2026-09-19,Google,Lunch visit. Food took forever to arrive! Overcooked dal makhani and no flavour. Too noisy and cramped.,2,negative,"ambiance,food,wait_time",0
+R00222,Mansarovar,2026-09-19,Google,Crowded and chaotic atmosphere. Not worth the money at all.,1,negative,"ambiance,price",0
+R00223,Mansarovar,2026-09-19,Google,Overcooked pasta and no flavour. The AC was broken and it was unbearably hot!,1,negative,"ambiance,food",0
+R00224,Mansarovar,2026-09-19,Google,Lunch visit. Fine for a quick meal.,3,neutral,,0
+R00225,Malviya Nagar,2026-09-20,Instagram,"Lunch visit. Cutlery looked unwashed, pretty gross. Too noisy and cramped.",1,negative,"ambiance,cleanliness",0
+R00226,Malviya Nagar,2026-09-20,Google,Very reasonable prices for the portion size.,4,positive,price,0
+R00227,Malviya Nagar,2026-09-20,Google,Beautiful seating and a relaxed vibe! Great taste and the biryani was fresh.,4,positive,"ambiance,food",0
+R00228,C-Scheme,2026-09-20,Google,Came with family. Very reasonable prices for the portion size! Polite and welcoming staff. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price,service",0
+R00229,C-Scheme,2026-09-20,Zomato,Nobody seemed to care about the customers. The washroom was filthy. Not worth the money at all.,1,negative,"cleanliness,price,service",0
+R00230,C-Scheme,2026-09-20,Google,Came with family. Food arrived quickly.,5,positive,wait_time,0
+R00231,C-Scheme,2026-09-20,Google,Lunch visit. Very reasonable prices for the portion size. Beautiful seating and a relaxed vibe.,4,positive,"ambiance,price",0
+R00232,Vaishali Nagar,2026-09-20,Google,Tables and washrooms were very clean. Service was fast even on a busy night!,4,positive,"cleanliness,wait_time",0
+R00233,Vaishali Nagar,2026-09-20,Instagram,Lunch visit. Service was fast even on a busy night! Totally worth what we paid.,5,positive,"price,wait_time",0
+R00234,Vaishali Nagar,2026-09-20,Google,Lunch visit. Tables were dirty and sticky.,1,negative,cleanliness,0
+R00235,Mansarovar,2026-09-20,Instagram,Impressively hygienic restaurant. masala dosa was cooked to perfection.,4,positive,"cleanliness,food",0
+R00236,Mansarovar,2026-09-20,Zomato,Lunch visit. Service was fast even on a busy night.,5,positive,wait_time,0
+R00237,Mansarovar,2026-09-20,Google,Came with family. The dal makhani tasted off and disappointing!,1,negative,food,0
+R00238,Mansarovar,2026-09-20,Instagram,"Lunch visit. Our server was super helpful and friendly. No wait at all, seated immediately!",5,positive,"service,wait_time",0
+R00239,Mansarovar,2026-09-20,Google,Visited on a weekend. It was okay.,3,neutral,,0
+R00240,Malviya Nagar,2026-09-21,Zomato,Came with family. Best paneer tikka I've had in Jaipur. Tables and washrooms were very clean. Service was fast even on a busy night.,5,positive,"cleanliness,food,wait_time",0
+R00241,Malviya Nagar,2026-09-21,Zomato,"Came with family. Excellent service, they remembered our order. However, the chole bhature was cold and tasteless.",3,neutral,"food,service",0
+R00242,Malviya Nagar,2026-09-21,Instagram,"Waited 50 minutes for our food. Very oily masala dosa, not worth eating.",4,negative,"food,wait_time",0
+R00243,Malviya Nagar,2026-09-21,Google,"Visited on a weekend. Great taste and the dal makhani was fresh. No wait at all, seated immediately!",4,positive,"food,wait_time",0
+R00244,C-Scheme,2026-09-21,Google,"Had to wait over an hour, ridiculous!",1,negative,wait_time,0
+R00245,C-Scheme,2026-09-21,Google,Cozy decor and nice music.,4,positive,ambiance,0
+R00246,C-Scheme,2026-09-21,Google,"Too noisy and cramped. Had to wait over an hour, ridiculous.",1,negative,"ambiance,wait_time",0
+R00247,C-Scheme,2026-09-21,Zomato,Dinner here last night. Service was fast even on a busy night. Very reasonable prices for the portion size.,5,positive,"price,wait_time",0
+R00248,C-Scheme,2026-09-21,Google,Visited on a weekend. Overcooked chole bhature and no flavour. Staff were rude and ignored us.,1,negative,"food,service",0
+R00249,C-Scheme,2026-09-21,Google,Impressively hygienic restaurant! The food here never disappoints!,4,positive,"cleanliness,food",0
+R00250,Vaishali Nagar,2026-09-21,Instagram,"Dinner here last night. Very oily masala dosa, not worth eating.",1,negative,food,0
+R00251,Vaishali Nagar,2026-09-21,Instagram,"Lunch visit. Polite and welcoming staff. However, overcooked thali and no flavour.",3,neutral,"food,service",0
+R00252,Mansarovar,2026-09-21,Instagram,"No wait at all, seated immediately! Great taste and the biryani was fresh.",5,positive,"food,wait_time",0
+R00253,Mansarovar,2026-09-21,Google,"Lovely ambience, great for family dinners. The pasta was absolutely delicious.",4,positive,"ambiance,food",0
+R00254,Malviya Nagar,2026-09-22,Google,"Came with family. chole bhature was cooked to perfection. However, painfully slow service.",3,neutral,"food,wait_time",0
+R00255,Malviya Nagar,2026-09-22,Google,"Totally worth what we paid! However, tables were dirty and sticky.",3,neutral,"cleanliness,price",0
+R00256,Malviya Nagar,2026-09-22,Google,Our server was super helpful and friendly! Impressively hygienic restaurant.,4,positive,"cleanliness,service",0
+R00257,Malviya Nagar,2026-09-22,Google,"Too noisy and cramped. Had to wait over an hour, ridiculous. Not worth the money at all.",1,negative,"ambiance,price,wait_time",0
+R00258,C-Scheme,2026-09-22,Instagram,"Dinner here last night. Loved the thali, so flavourful. Impressively hygienic restaurant! Service was fast even on a busy night.",5,positive,"cleanliness,food,wait_time",0
+R00259,C-Scheme,2026-09-22,Google,Great value for money! Best chole bhature I've had in Jaipur.,4,positive,"food,price",0
+R00260,C-Scheme,2026-09-22,Instagram,Came with family. Service was fast even on a busy night. The food here never disappoints! Our server was super helpful and friendly.,5,positive,"food,service,wait_time",0
+R00261,C-Scheme,2026-09-22,Google,Cozy decor and nice music. Best thali I've had in Jaipur.,4,positive,"ambiance,food",0
+R00262,C-Scheme,2026-09-22,Google,Visited on a weekend. The AC was broken and it was unbearably hot.,2,negative,ambiance,0
+R00263,C-Scheme,2026-09-22,Google,Dinner here last night. Beautiful seating and a relaxed vibe. Food arrived quickly.,5,positive,"ambiance,wait_time",0
+R00264,Vaishali Nagar,2026-09-22,Google,Very reasonable prices for the portion size! The paneer tikka was absolutely delicious.,5,positive,"food,price",0
+R00265,Vaishali Nagar,2026-09-22,Google,Came with family. Impressively hygienic restaurant. Great value for money.,5,positive,"cleanliness,price",0
+R00266,Vaishali Nagar,2026-09-22,Instagram,"Cutlery looked unwashed, pretty gross. Nobody seemed to care about the customers. The paneer tikka was cold and tasteless!",1,negative,"cleanliness,food,service",0
+R00267,Vaishali Nagar,2026-09-22,Google,"Visited on a weekend. No wait at all, seated immediately.",5,positive,wait_time,0
+R00268,Mansarovar,2026-09-22,Instagram,"Came with family. Lovely ambience, great for family dinners! Great value for money.",5,positive,"ambiance,price",0
+R00269,Mansarovar,2026-09-22,Instagram,Came with family. Service was fast even on a busy night. Beautiful seating and a relaxed vibe!,5,positive,"ambiance,wait_time",0
+R00270,Malviya Nagar,2026-09-23,Instagram,Waited 50 minutes for our food. Overcooked biryani and no flavour.,1,negative,"food,wait_time",0
+R00271,Malviya Nagar,2026-09-23,Google,Polite and welcoming staff.,5,positive,service,0
+R00272,Malviya Nagar,2026-09-23,Zomato,"biryani was cooked to perfection. However, overpriced for what you get.",3,neutral,"food,price",0
+R00273,C-Scheme,2026-09-23,Instagram,The team went out of their way to help us. Tables and washrooms were very clean.,4,positive,"cleanliness,service",0
+R00274,C-Scheme,2026-09-23,Google,Very reasonable prices for the portion size. The place was spotless.,5,positive,"cleanliness,price",0
+R00275,C-Scheme,2026-09-23,Instagram,Visited on a weekend. Our server was super helpful and friendly!,5,positive,service,0
+R00276,C-Scheme,2026-09-23,Instagram,Lunch visit. The food here never disappoints! Great value for money.,5,positive,"food,price",0
+R00277,C-Scheme,2026-09-23,Instagram,The dal makhani was absolutely delicious. Cozy decor and nice music. Service was fast even on a busy night!,5,positive,"ambiance,food,wait_time",0
+R00278,Vaishali Nagar,2026-09-23,Google,Dinner here last night. The food here never disappoints.,5,positive,food,0
+R00279,Vaishali Nagar,2026-09-23,Google,Cozy decor and nice music.,4,positive,ambiance,0
+R00280,Vaishali Nagar,2026-09-23,Google,"Came with family. Best paneer tikka I've had in Jaipur! However, painfully slow service!",3,neutral,"food,wait_time",0
+R00281,Vaishali Nagar,2026-09-23,Instagram,Dinner here last night. The place was spotless! Polite and welcoming staff.,5,positive,"cleanliness,service",0
+R00282,Mansarovar,2026-09-23,Google,Tables and washrooms were very clean! The team went out of their way to help us. Affordable and filling.,5,positive,"cleanliness,price,service",0
+R00283,Mansarovar,2026-09-23,Google,Came with family. The food here never disappoints. The place was spotless!,5,positive,"cleanliness,food",0
+R00284,Mansarovar,2026-09-23,Google,"Visited on a weekend. Staff were warm and attentive. However, crowded and chaotic atmosphere.",3,neutral,"ambiance,service",0
+R00285,Mansarovar,2026-09-23,Google,Average experience.,3,neutral,,0
+R00286,Mansarovar,2026-09-23,Zomato,Lunch visit. Not worth the money at all.,1,negative,price,0
+R00287,Malviya Nagar,2026-09-24,Instagram,"Dinner here last night. The AC was broken and it was unbearably hot. Cutlery looked unwashed, pretty gross.",2,negative,"ambiance,cleanliness",0
+R00288,Malviya Nagar,2026-09-24,Google,Great taste and the paneer tikka was fresh! Impressively hygienic restaurant.,4,positive,"cleanliness,food",0
+R00289,Malviya Nagar,2026-09-24,Instagram,"Lunch visit. No wait at all, seated immediately. The paneer tikka was absolutely delicious.",5,positive,"food,wait_time",0
+R00290,Malviya Nagar,2026-09-24,Google,Food arrived quickly.,5,positive,wait_time,0
+R00291,C-Scheme,2026-09-24,Google,Came with family. Service was fast even on a busy night. Beautiful seating and a relaxed vibe. Affordable and filling!,4,positive,"ambiance,price,wait_time",0
+R00292,C-Scheme,2026-09-24,Google,Lunch visit. Great value for money!,5,positive,price,0
+R00293,C-Scheme,2026-09-24,Zomato,Dinner here last night. Service was fast even on a busy night! Great value for money!,4,positive,"price,wait_time",0
+R00294,C-Scheme,2026-09-24,Google,Lunch visit. Totally worth what we paid! The team went out of their way to help us.,5,positive,"price,service",0
+R00295,Vaishali Nagar,2026-09-24,Google,"Lunch visit. The place was spotless. Lovely ambience, great for family dinners.",5,positive,"ambiance,cleanliness",0
+R00296,Vaishali Nagar,2026-09-24,Google,Visited on a weekend. Affordable and filling. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price",0
+R00297,Vaishali Nagar,2026-09-24,Zomato,Dinner here last night. Totally worth what we paid! Service was fast even on a busy night.,4,positive,"price,wait_time",0
+R00298,Vaishali Nagar,2026-09-24,Google,"Dinner here last night. Cozy decor and nice music. No wait at all, seated immediately.",4,positive,"ambiance,wait_time",0
+R00299,Vaishali Nagar,2026-09-24,Google,Visited on a weekend. Very reasonable prices for the portion size! The place was spotless. Staff were warm and attentive.,5,positive,"cleanliness,price,service",0
+R00300,Mansarovar,2026-09-24,Zomato,"Lovely ambience, great for family dinners! Excellent service, they remembered our order!",4,positive,"ambiance,service",0
+R00301,Mansarovar,2026-09-24,Instagram,Dinner here last night. The team went out of their way to help us.,5,positive,service,0
+R00302,Mansarovar,2026-09-24,Google,Dinner here last night. The chole bhature was cold and tasteless. Nobody seemed to care about the customers. The AC was broken and it was unbearably hot.,2,negative,"ambiance,food,service",0
+R00303,Mansarovar,2026-09-24,Google,Came with family. Nobody seemed to care about the customers. Crowded and chaotic atmosphere!,1,negative,"ambiance,service",0
+R00304,Malviya Nagar,2026-09-25,Zomato,"Tables and washrooms were very clean! However, food was stale and bland.",3,neutral,"cleanliness,food",0
+R00305,Malviya Nagar,2026-09-25,Zomato,Came with family. Overpriced for what you get.,2,negative,price,0
+R00306,Malviya Nagar,2026-09-25,Instagram,The food here never disappoints. Service was fast even on a busy night!,5,positive,"food,wait_time",0
+R00307,C-Scheme,2026-09-25,Instagram,Lunch visit. Tables were dirty and sticky! Painfully slow service.,2,negative,"cleanliness,wait_time",0
+R00308,C-Scheme,2026-09-25,Instagram,"Our server was super helpful and friendly! Lovely ambience, great for family dinners.",5,positive,"ambiance,service",0
+R00309,C-Scheme,2026-09-25,Google,"Dinner here last night. Beautiful seating and a relaxed vibe! However, the washroom was filthy.",3,neutral,"ambiance,cleanliness",0
+R00310,C-Scheme,2026-09-25,Instagram,"Came with family. Loved the masala dosa, so flavourful!",5,positive,food,0
+R00311,Vaishali Nagar,2026-09-25,Google,"Lunch visit. Totally worth what we paid. Loved the masala dosa, so flavourful. Food arrived quickly.",4,positive,"food,price,wait_time",0
+R00312,Vaishali Nagar,2026-09-25,Instagram,"Came with family. The team went out of their way to help us. Loved the thali, so flavourful.",4,positive,"food,service",0
+R00313,Vaishali Nagar,2026-09-25,Zomato,Dinner here last night. Not worth the money at all. Food took forever to arrive!,1,negative,"price,wait_time",0
+R00314,Vaishali Nagar,2026-09-25,Instagram,"Affordable and filling. However, waited 50 minutes for our food.",3,neutral,"price,wait_time",0
+R00315,Mansarovar,2026-09-25,Google,Our server was super helpful and friendly. Very reasonable prices for the portion size.,5,positive,"price,service",0
+R00316,Mansarovar,2026-09-25,Google,Beautiful seating and a relaxed vibe! Impressively hygienic restaurant. butter chicken was cooked to perfection!,4,positive,"ambiance,cleanliness,food",0
+R00317,Malviya Nagar,2026-09-26,Google,"Cutlery looked unwashed, pretty gross! Very oily biryani, not worth eating.",1,negative,"cleanliness,food",0
+R00318,Malviya Nagar,2026-09-26,Instagram,Manager was dismissive when we complained. The AC was broken and it was unbearably hot.,1,negative,"ambiance,service",0
+R00319,Malviya Nagar,2026-09-26,Instagram,Decent but not memorable.,3,neutral,,0
+R00320,Malviya Nagar,2026-09-26,Zomato,It was okay.,3,neutral,,0
+R00321,Malviya Nagar,2026-09-26,Google,"Visited on a weekend. They charged my card twice, this is a scam!",2,negative,price,1
+R00322,C-Scheme,2026-09-26,Google,Lunch visit. Fine for a quick meal.,3,neutral,,0
+R00323,C-Scheme,2026-09-26,Zomato,Dinner here last night. Totally worth what we paid. Polite and welcoming staff. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price,service",0
+R00324,Vaishali Nagar,2026-09-26,Google,Lunch visit. Food was stale and bland.,2,negative,food,0
+R00325,Vaishali Nagar,2026-09-26,Google,The place was spotless.,4,positive,cleanliness,0
+R00326,Vaishali Nagar,2026-09-26,Zomato,Came with family. paneer tikka was cooked to perfection. Tables and washrooms were very clean.,5,positive,"cleanliness,food",0
+R00327,Mansarovar,2026-09-26,Google,Great value for money. Beautiful seating and a relaxed vibe!,5,positive,"ambiance,price",0
+R00328,Mansarovar,2026-09-26,Google,"Lovely ambience, great for family dinners.",4,positive,ambiance,0
+R00329,Mansarovar,2026-09-26,Zomato,Dinner here last night. Food arrived quickly! Our server was super helpful and friendly.,5,positive,"service,wait_time",0
+R00330,Malviya Nagar,2026-09-27,Google,"Lunch visit. Loved the butter chicken, so flavourful! However, the AC was broken and it was unbearably hot.",3,neutral,"ambiance,food",0
+R00331,Malviya Nagar,2026-09-27,Zomato,Came with family. Our server was super helpful and friendly.,5,positive,service,0
+R00332,Malviya Nagar,2026-09-27,Google,Lunch visit. Impressively hygienic restaurant. butter chicken was cooked to perfection.,5,positive,"cleanliness,food",0
+R00333,C-Scheme,2026-09-27,Google,Visited on a weekend. Service was fast even on a busy night.,5,positive,wait_time,0
+R00334,C-Scheme,2026-09-27,Zomato,Waited 50 minutes for our food. The pasta tasted off and disappointing.,1,negative,"food,wait_time",0
+R00335,C-Scheme,2026-09-27,Google,Lunch visit. Average experience.,3,neutral,,0
+R00336,Vaishali Nagar,2026-09-27,Google,The team went out of their way to help us! Great value for money. Best masala dosa I've had in Jaipur!,5,positive,"food,price,service",0
+R00337,Vaishali Nagar,2026-09-27,Google,Came with family. Totally worth what we paid. The food here never disappoints.,5,positive,"food,price",0
+R00338,Vaishali Nagar,2026-09-27,Zomato,Average experience.,3,neutral,,0
+R00339,Vaishali Nagar,2026-09-27,Instagram,Came with family. Staff were rude and ignored us. Overpriced for what you get.,1,negative,"price,service",0
+R00340,Mansarovar,2026-09-27,Instagram,Visited on a weekend. Impressively hygienic restaurant. Affordable and filling.,4,positive,"cleanliness,price",0
+R00341,Mansarovar,2026-09-27,Zomato,"Visited on a weekend. The place was spotless. However, manager was dismissive when we complained.",3,neutral,"cleanliness,service",0
+R00342,Mansarovar,2026-09-27,Google,Dinner here last night. Beautiful seating and a relaxed vibe! Totally worth what we paid!,4,positive,"ambiance,price",0
+R00343,Mansarovar,2026-09-27,Google,"Visited on a weekend. Very reasonable prices for the portion size. However, very oily masala dosa, not worth eating.",3,neutral,"food,price",0
+R00344,C-Scheme,2026-09-28,Google,Dinner here last night. Fine for a quick meal.,3,neutral,,0
+R00345,C-Scheme,2026-09-28,Zomato,"Staff were warm and attentive! However, had to wait over an hour, ridiculous.",3,neutral,"service,wait_time",0
+R00346,C-Scheme,2026-09-28,Google,Lunch visit. Staff were warm and attentive.,5,positive,service,0
+R00347,C-Scheme,2026-09-28,Google,"Cutlery looked unwashed, pretty gross. Waited 50 minutes for our food.",1,negative,"cleanliness,wait_time",0
+R00348,Vaishali Nagar,2026-09-28,Google,"Dinner here last night. Food arrived quickly. However, not worth the money at all.",3,neutral,"price,wait_time",0
+R00349,Vaishali Nagar,2026-09-28,Google,Lunch visit. Food took forever to arrive. Manager was dismissive when we complained. The washroom was filthy.,1,negative,"cleanliness,service,wait_time",0
+R00350,Vaishali Nagar,2026-09-28,Google,Came with family. Fine for a quick meal.,3,neutral,,0
+R00351,Vaishali Nagar,2026-09-28,Google,"Came with family. No wait at all, seated immediately. Impressively hygienic restaurant!",5,positive,"cleanliness,wait_time",0
+R00352,Mansarovar,2026-09-28,Instagram,Beautiful seating and a relaxed vibe. Service was fast even on a busy night.,5,positive,"ambiance,wait_time",0
+R00353,Mansarovar,2026-09-28,Zomato,"Visited on a weekend. Lovely ambience, great for family dinners.",5,positive,ambiance,0
+R00354,Mansarovar,2026-09-28,Google,Dinner here last night. Overpriced for what you get.,2,negative,price,0
+R00355,Malviya Nagar,2026-09-29,Google,"Visited on a weekend. No wait at all, seated immediately. Cozy decor and nice music!",4,positive,"ambiance,wait_time",0
+R00356,Malviya Nagar,2026-09-29,Google,"Visited on a weekend. Had to wait over an hour, ridiculous!",1,negative,wait_time,0
+R00357,C-Scheme,2026-09-29,Google,Polite and welcoming staff. Tables and washrooms were very clean. Service was fast even on a busy night.,5,positive,"cleanliness,service,wait_time",0
+R00358,C-Scheme,2026-09-29,Instagram,Visited on a weekend. Food arrived quickly.,4,positive,wait_time,0
+R00359,C-Scheme,2026-09-29,Google,"Dinner here last night. Excellent service, they remembered our order. Impressively hygienic restaurant!",5,positive,"cleanliness,service",0
+R00360,Vaishali Nagar,2026-09-29,Google,Visited on a weekend. Too noisy and cramped.,1,negative,ambiance,0
+R00361,Vaishali Nagar,2026-09-29,Google,It was okay.,3,neutral,,0
+R00362,Vaishali Nagar,2026-09-29,Google,Beautiful seating and a relaxed vibe.,5,positive,ambiance,0
+R00363,Vaishali Nagar,2026-09-29,Google,Lunch visit. The waiter was careless and got our order wrong.,2,negative,service,0
+R00364,Vaishali Nagar,2026-09-29,Instagram,"Visited on a weekend. Very oily chole bhature, not worth eating!",1,negative,food,0
+R00365,Vaishali Nagar,2026-09-29,Google,Average experience.,3,neutral,,0
+R00366,Mansarovar,2026-09-29,Google,"Lovely ambience, great for family dinners! Very reasonable prices for the portion size! The food here never disappoints.",4,positive,"ambiance,food,price",0
+R00367,Mansarovar,2026-09-29,Zomato,Dinner here last night. Way too expensive for such small portions. The waiter was careless and got our order wrong. Tables were dirty and sticky.,1,negative,"cleanliness,price,service",0
+R00368,Mansarovar,2026-09-29,Google,Came with family. Great taste and the masala dosa was fresh. The team went out of their way to help us! Affordable and filling!,5,positive,"food,price,service",0
+R00369,Malviya Nagar,2026-09-30,Google,Very reasonable prices for the portion size. Staff were warm and attentive.,5,positive,"price,service",0
+R00370,Malviya Nagar,2026-09-30,Zomato,"Visited on a weekend. The team went out of their way to help us. The place was spotless! No wait at all, seated immediately.",5,positive,"cleanliness,service,wait_time",0
+R00371,C-Scheme,2026-09-30,Zomato,Dinner here last night. Decent but not memorable.,3,neutral,,0
+R00372,C-Scheme,2026-09-30,Google,Lunch visit. Average experience.,1,neutral,,0
+R00373,C-Scheme,2026-09-30,Google,Decent but not memorable.,3,neutral,,0
+R00374,C-Scheme,2026-09-30,Zomato,Too noisy and cramped!,1,negative,ambiance,0
+R00375,C-Scheme,2026-09-30,Google,The washroom was filthy. Waited 50 minutes for our food.,2,negative,"cleanliness,wait_time",0
+R00376,C-Scheme,2026-09-30,Zomato,Tables and washrooms were very clean! Beautiful seating and a relaxed vibe.,4,positive,"ambiance,cleanliness",0
+R00377,Vaishali Nagar,2026-09-30,Google,Not worth the money at all. Too noisy and cramped!,1,negative,"ambiance,price",0
+R00378,Vaishali Nagar,2026-09-30,Google,Visited on a weekend. The thali was cold and tasteless.,1,negative,food,0
+R00379,Vaishali Nagar,2026-09-30,Zomato,Came with family. Great taste and the dal makhani was fresh!,5,positive,food,0
+R00380,Mansarovar,2026-09-30,Zomato,Best pasta I've had in Jaipur.,5,positive,food,0
+R00381,Mansarovar,2026-09-30,Google,Lunch visit. Affordable and filling. Food arrived quickly.,5,positive,"price,wait_time",0
+R00382,Mansarovar,2026-09-30,Google,"No wait at all, seated immediately.",5,positive,wait_time,0
+R00383,Mansarovar,2026-09-30,Google,Visited on a weekend. Cozy decor and nice music! The place was spotless.,1,positive,"ambiance,cleanliness",0
+R00384,Malviya Nagar,2026-10-01,Google,The AC was broken and it was unbearably hot!,1,negative,ambiance,0
+R00385,Malviya Nagar,2026-10-01,Zomato,Visited on a weekend. masala dosa was cooked to perfection!,5,positive,food,0
+R00386,Malviya Nagar,2026-10-01,Google,"Service was fast even on a busy night. Loved the pasta, so flavourful.",5,positive,"food,wait_time",0
+R00387,Malviya Nagar,2026-10-01,Zomato,"Came with family. Lovely ambience, great for family dinners! However, had to wait over an hour, ridiculous.",3,neutral,"ambiance,wait_time",0
+R00388,C-Scheme,2026-10-01,Instagram,"Very oily pasta, not worth eating. Tables were dirty and sticky.",1,negative,"cleanliness,food",0
+R00389,C-Scheme,2026-10-01,Google,Tables and washrooms were very clean. Food arrived quickly.,5,positive,"cleanliness,wait_time",0
+R00390,C-Scheme,2026-10-01,Google,Impressively hygienic restaurant!,5,positive,cleanliness,0
+R00391,C-Scheme,2026-10-01,Google,Dinner here last night. Great value for money. Impressively hygienic restaurant.,5,positive,"cleanliness,price",0
+R00392,Vaishali Nagar,2026-10-01,Zomato,Lunch visit. Staff were warm and attentive. The food here never disappoints. Impressively hygienic restaurant!,4,positive,"cleanliness,food,service",0
+R00393,Vaishali Nagar,2026-10-01,Google,"Came with family. Lovely ambience, great for family dinners.",4,positive,ambiance,0
+R00394,Mansarovar,2026-10-01,Google,Lunch visit. Affordable and filling! Best paneer tikka I've had in Jaipur.,5,positive,"food,price",0
+R00395,Mansarovar,2026-10-01,Instagram,"Visited on a weekend. Great value for money! Lovely ambience, great for family dinners.",4,positive,"ambiance,price",0
+R00396,Malviya Nagar,2026-10-02,Google,Nothing special.,3,neutral,,0
+R00397,Malviya Nagar,2026-10-02,Instagram,Came with family. The dal makhani was absolutely delicious. Very reasonable prices for the portion size.,1,positive,"food,price",0
+R00398,Mansarovar,2026-10-02,Google,Beautiful seating and a relaxed vibe. Service was fast even on a busy night. The place was spotless.,5,positive,"ambiance,cleanliness,wait_time",0
+R00399,Mansarovar,2026-10-02,Google,"Visited on a weekend. Beautiful seating and a relaxed vibe. Loved the pasta, so flavourful.",5,positive,"ambiance,food",0
+R00400,Mansarovar,2026-10-02,Google,"Dinner here last night. Lovely ambience, great for family dinners. However, manager was dismissive when we complained!",3,neutral,"ambiance,service",0
+R00401,Mansarovar,2026-10-02,Instagram,It was okay.,3,neutral,,0
+R00402,Malviya Nagar,2026-10-03,Zomato,Affordable and filling. Beautiful seating and a relaxed vibe! The place was spotless.,4,positive,"ambiance,cleanliness,price",0
+R00403,Malviya Nagar,2026-10-03,Google,Lunch visit. Average experience.,3,neutral,,0
+R00404,Malviya Nagar,2026-10-03,Google,Dinner here last night. Waited 50 minutes for our food! Overpriced for what you get.,2,negative,"price,wait_time",0
+R00405,C-Scheme,2026-10-03,Google,Dinner here last night. The pasta was cold and tasteless. Too noisy and cramped. Staff were rude and ignored us.,1,negative,"ambiance,food,service",0
+R00406,C-Scheme,2026-10-03,Google,Lunch visit. Way too expensive for such small portions.,2,negative,price,0
+R00407,Vaishali Nagar,2026-10-03,Google,Food arrived quickly. The team went out of their way to help us. Cozy decor and nice music.,4,positive,"ambiance,service,wait_time",0
+R00408,Vaishali Nagar,2026-10-03,Google,Great taste and the masala dosa was fresh.,5,positive,food,0
+R00409,Vaishali Nagar,2026-10-03,Instagram,Too noisy and cramped.,1,negative,ambiance,0
+R00410,Vaishali Nagar,2026-10-03,Instagram,Waited 50 minutes for our food! Nobody seemed to care about the customers!,1,negative,"service,wait_time",0
+R00411,Vaishali Nagar,2026-10-03,Google,Service was fast even on a busy night. Tables and washrooms were very clean.,5,positive,"cleanliness,wait_time",0
+R00412,Mansarovar,2026-10-03,Google,"Dinner here last night. The food here never disappoints! However, nobody seemed to care about the customers.",3,neutral,"food,service",0
+R00413,Mansarovar,2026-10-03,Instagram,Beautiful seating and a relaxed vibe! The place was spotless. pasta was cooked to perfection!,4,positive,"ambiance,cleanliness,food",0
+R00414,Mansarovar,2026-10-03,Google,The place was spotless! Staff were warm and attentive! Best butter chicken I've had in Jaipur.,5,positive,"cleanliness,food,service",0
+R00415,Malviya Nagar,2026-10-04,Google,"Visited on a weekend. Polite and welcoming staff. No wait at all, seated immediately. Loved the masala dosa, so flavourful.",4,positive,"food,service,wait_time",0
+R00416,Malviya Nagar,2026-10-04,Instagram,"Lovely ambience, great for family dinners. Best pasta I've had in Jaipur.",5,positive,"ambiance,food",0
+R00417,Malviya Nagar,2026-10-04,Instagram,Lunch visit. Crowded and chaotic atmosphere.,1,negative,ambiance,0
+R00418,Malviya Nagar,2026-10-04,Zomato,The chole bhature was absolutely delicious.,5,positive,food,0
+R00419,C-Scheme,2026-10-04,Instagram,Visited on a weekend. Nothing special.,3,neutral,,0
+R00420,Vaishali Nagar,2026-10-04,Google,"Lunch visit. Loved the biryani, so flavourful. Lovely ambience, great for family dinners.",5,positive,"ambiance,food",0
+R00421,Mansarovar,2026-10-04,Google,"Dinner here last night. Affordable and filling. Excellent service, they remembered our order. Beautiful seating and a relaxed vibe!",5,positive,"ambiance,price,service",0
+R00422,Mansarovar,2026-10-04,Instagram,Waited 50 minutes for our food! Manager was dismissive when we complained. The AC was broken and it was unbearably hot.,1,negative,"ambiance,service,wait_time",0
+R00423,Mansarovar,2026-10-04,Instagram,Beautiful seating and a relaxed vibe! Very reasonable prices for the portion size. The place was spotless.,5,positive,"ambiance,cleanliness,price",0
+R00424,Mansarovar,2026-10-04,Google,Lunch visit. The washroom was filthy. Manager was dismissive when we complained.,2,negative,"cleanliness,service",0
+R00425,Mansarovar,2026-10-04,Instagram,Lunch visit. Totally worth what we paid.,5,positive,price,0
+R00426,Malviya Nagar,2026-10-05,Google,"Came with family. Beautiful seating and a relaxed vibe. However, food took forever to arrive.",3,neutral,"ambiance,wait_time",0
+R00427,Vaishali Nagar,2026-10-05,Instagram,"Impressively hygienic restaurant! butter chicken was cooked to perfection. Excellent service, they remembered our order.",5,positive,"cleanliness,food,service",0
+R00428,Vaishali Nagar,2026-10-05,Instagram,Our server was super helpful and friendly.,5,positive,service,0
+R00429,Vaishali Nagar,2026-10-05,Instagram,Food arrived quickly. Tables and washrooms were very clean!,5,positive,"cleanliness,wait_time",0
+R00430,Mansarovar,2026-10-05,Zomato,Came with family. It was okay.,3,neutral,,0
+R00431,Mansarovar,2026-10-05,Google,"Had to wait over an hour, ridiculous!",2,negative,wait_time,0
+R00432,Mansarovar,2026-10-05,Google,Service was fast even on a busy night! Totally worth what we paid.,5,positive,"price,wait_time",0
+R00433,C-Scheme,2026-10-06,Zomato,Visited on a weekend. Affordable and filling.,5,positive,price,0
+R00434,C-Scheme,2026-10-06,Google,Dinner here last night. Tables were dirty and sticky. Way too expensive for such small portions.,1,negative,"cleanliness,price",0
+R00435,C-Scheme,2026-10-06,Zomato,Came with family. Average experience.,3,neutral,,0
+R00436,Vaishali Nagar,2026-10-06,Google,Nothing special.,3,neutral,,0
+R00437,Vaishali Nagar,2026-10-06,Google,Came with family. Tables and washrooms were very clean. Food arrived quickly!,5,positive,"cleanliness,wait_time",0
+R00438,Vaishali Nagar,2026-10-06,Instagram,"Dinner here last night. Lovely ambience, great for family dinners! Very reasonable prices for the portion size. Food arrived quickly!",5,positive,"ambiance,price,wait_time",0
+R00439,Mansarovar,2026-10-06,Google,Painfully slow service. Nobody seemed to care about the customers.,1,negative,"service,wait_time",0
+R00440,Mansarovar,2026-10-06,Google,Lunch visit. Nothing special.,3,neutral,,0
+R00441,Mansarovar,2026-10-06,Instagram,Lunch visit. Food arrived quickly! The place was spotless. The food here never disappoints.,5,positive,"cleanliness,food,wait_time",0
+R00442,Malviya Nagar,2026-10-07,Google,Food arrived quickly! Cozy decor and nice music. Great value for money.,4,positive,"ambiance,price,wait_time",0
+R00443,Malviya Nagar,2026-10-07,Google,Came with family. Affordable and filling.,5,positive,price,0
+R00444,C-Scheme,2026-10-07,Zomato,"Affordable and filling. However, crowded and chaotic atmosphere.",3,neutral,"ambiance,price",0
+R00445,Vaishali Nagar,2026-10-07,Google,Visited on a weekend. The team went out of their way to help us. Great taste and the pasta was fresh.,5,positive,"food,service",0
+R00446,Vaishali Nagar,2026-10-07,Google,"No wait at all, seated immediately. Lovely ambience, great for family dinners. thali was cooked to perfection.",5,positive,"ambiance,food,wait_time",0
+R00447,Mansarovar,2026-10-07,Google,Dinner here last night. Nobody seemed to care about the customers.,1,negative,service,0
+R00448,Mansarovar,2026-10-07,Zomato,"Came with family. Service was fast even on a busy night. Loved the butter chicken, so flavourful.",5,positive,"food,wait_time",0
+R00449,Mansarovar,2026-10-07,Google,The place was spotless! Totally worth what we paid.,4,positive,"cleanliness,price",0
+R00450,Mansarovar,2026-10-07,Google,Came with family. Nothing special.,3,neutral,,0
+R00451,Malviya Nagar,2026-10-08,Instagram,The place was spotless. The team went out of their way to help us.,4,positive,"cleanliness,service",0
+R00452,Malviya Nagar,2026-10-08,Instagram,Came with family. Affordable and filling. masala dosa was cooked to perfection!,5,positive,"food,price",0
+R00453,Malviya Nagar,2026-10-08,Google,The place was spotless. Affordable and filling!,2,positive,"cleanliness,price",0
+R00454,C-Scheme,2026-10-08,Zomato,Came with family. Waited 50 minutes for our food!,2,negative,wait_time,0
+R00455,C-Scheme,2026-10-08,Google,The food here never disappoints!,4,positive,food,0
+R00456,C-Scheme,2026-10-08,Google,Came with family. Very reasonable prices for the portion size!,5,positive,price,0
+R00457,C-Scheme,2026-10-08,Google,"The place was spotless. Loved the pasta, so flavourful!",5,positive,"cleanliness,food",0
+R00458,Vaishali Nagar,2026-10-08,Google,Visited on a weekend. Way too expensive for such small portions.,2,negative,price,0
+R00459,Vaishali Nagar,2026-10-08,Google,"Lovely ambience, great for family dinners. However, waited 50 minutes for our food.",3,neutral,"ambiance,wait_time",0
+R00460,Vaishali Nagar,2026-10-08,Google,Lunch visit. Totally worth what we paid. The place was spotless!,5,positive,"cleanliness,price",0
+R00461,Mansarovar,2026-10-08,Google,"Polite and welcoming staff. However, crowded and chaotic atmosphere.",3,neutral,"ambiance,service",0
+R00462,Mansarovar,2026-10-08,Google,Average experience.,3,neutral,,0
+R00463,Mansarovar,2026-10-08,Google,Came with family. Affordable and filling. Staff were warm and attentive.,5,positive,"price,service",0
+R00464,Mansarovar,2026-10-08,Zomato,"Had to wait over an hour, ridiculous. The waiter was careless and got our order wrong.",1,negative,"service,wait_time",0
+R00465,Malviya Nagar,2026-10-09,Google,Lunch visit. Impressively hygienic restaurant. Service was fast even on a busy night.,4,positive,"cleanliness,wait_time",0
+R00466,Malviya Nagar,2026-10-09,Google,"Service was fast even on a busy night! However, overcooked butter chicken and no flavour.",3,neutral,"food,wait_time",0
+R00467,Malviya Nagar,2026-10-09,Zomato,Lunch visit. chole bhature was cooked to perfection.,4,positive,food,0
+R00468,Malviya Nagar,2026-10-09,Google,"Lovely ambience, great for family dinners.",4,positive,ambiance,0
+R00469,C-Scheme,2026-10-09,Instagram,"Came with family. Impressively hygienic restaurant. Excellent service, they remembered our order.",5,positive,"cleanliness,service",0
+R00470,Vaishali Nagar,2026-10-09,Google,Dinner here last night. Fine for a quick meal.,3,neutral,,0
+R00471,Vaishali Nagar,2026-10-09,Instagram,Came with family. Best chole bhature I've had in Jaipur. Food arrived quickly.,5,positive,"food,wait_time",0
+R00472,Vaishali Nagar,2026-10-09,Google,"Came with family. Very oily pasta, not worth eating! The washroom was filthy!",1,negative,"cleanliness,food",0
+R00473,Vaishali Nagar,2026-10-09,Zomato,Dinner here last night. Average experience.,3,neutral,,0
+R00474,Mansarovar,2026-10-09,Instagram,"No wait at all, seated immediately! Staff were warm and attentive.",5,positive,"service,wait_time",0
+R00475,Mansarovar,2026-10-09,Google,"Visited on a weekend. Affordable and filling. Loved the butter chicken, so flavourful.",5,positive,"food,price",0
+R00476,Mansarovar,2026-10-09,Instagram,"Lunch visit. Manager was dismissive when we complained! Had to wait over an hour, ridiculous.",2,negative,"service,wait_time",0
+R00477,Mansarovar,2026-10-09,Instagram,"Dinner here last night. Excellent service, they remembered our order. Totally worth what we paid. Lovely ambience, great for family dinners!",5,positive,"ambiance,price,service",0
+R00478,Malviya Nagar,2026-10-10,Google,Our server was super helpful and friendly. Best paneer tikka I've had in Jaipur!,4,positive,"food,service",0
+R00479,Malviya Nagar,2026-10-10,Google,Visited on a weekend. Best biryani I've had in Jaipur. Food arrived quickly. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,food,wait_time",0
+R00480,Malviya Nagar,2026-10-10,Google,Lunch visit. Great value for money. Staff were warm and attentive!,5,positive,"price,service",0
+R00481,C-Scheme,2026-10-10,Google,Came with family. Average experience.,3,neutral,,0
+R00482,C-Scheme,2026-10-10,Google,It was okay.,3,neutral,,0
+R00483,Vaishali Nagar,2026-10-10,Google,Fine for a quick meal.,3,neutral,,0
+R00484,Vaishali Nagar,2026-10-10,Google,Manager was dismissive when we complained.,2,negative,service,0
+R00485,Vaishali Nagar,2026-10-10,Zomato,Came with family. Beautiful seating and a relaxed vibe!,5,positive,ambiance,0
+R00486,Mansarovar,2026-10-10,Instagram,Lunch visit. Nobody seemed to care about the customers.,1,negative,service,0
+R00487,Mansarovar,2026-10-10,Zomato,The paneer tikka was absolutely delicious.,5,positive,food,0
+R00488,Mansarovar,2026-10-10,Google,Came with family. Painfully slow service. Staff were rude and ignored us.,2,negative,"service,wait_time",0
+R00489,Mansarovar,2026-10-10,Google,"Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+R00490,Mansarovar,2026-10-10,Google,Food took forever to arrive. Staff were rude and ignored us.,1,negative,"service,wait_time",0
+R00491,Mansarovar,2026-10-10,Instagram,"Lunch visit. The place was spotless! However, painfully slow service.",3,neutral,"cleanliness,wait_time",0
+R00492,Malviya Nagar,2026-10-11,Google,"Lovely ambience, great for family dinners! Service was fast even on a busy night. Polite and welcoming staff!",5,positive,"ambiance,service,wait_time",0
+R00493,Vaishali Nagar,2026-10-11,Google,Came with family. Staff were rude and ignored us. Way too expensive for such small portions.,1,negative,"price,service",0
+R00494,Vaishali Nagar,2026-10-11,Google,Came with family. The food here never disappoints. Staff were warm and attentive! Affordable and filling.,5,positive,"food,price,service",0
+R00495,Mansarovar,2026-10-11,Instagram,Dinner here last night. Waited 50 minutes for our food!,1,negative,wait_time,0
+R00496,Mansarovar,2026-10-11,Google,Dinner here last night. Cozy decor and nice music. Service was fast even on a busy night!,4,positive,"ambiance,wait_time",0
+R00497,Mansarovar,2026-10-11,Google,Affordable and filling. The team went out of their way to help us!,5,positive,"price,service",0
+R00498,Mansarovar,2026-10-11,Instagram,Lunch visit. Tables and washrooms were very clean. Best thali I've had in Jaipur.,4,positive,"cleanliness,food",0
+R00499,Malviya Nagar,2026-10-12,Google,"Lovely ambience, great for family dinners.",5,positive,ambiance,0
+R00500,Malviya Nagar,2026-10-12,Google,Visited on a weekend. Average experience.,3,neutral,,0
+R00501,Malviya Nagar,2026-10-12,Google,Came with family. Tables and washrooms were very clean!,4,positive,cleanliness,0
+R00502,C-Scheme,2026-10-12,Google,Lunch visit. Too noisy and cramped. Food took forever to arrive.,1,negative,"ambiance,wait_time",0
+R00503,C-Scheme,2026-10-12,Google,Very reasonable prices for the portion size. Cozy decor and nice music.,4,positive,"ambiance,price",0
+R00504,C-Scheme,2026-10-12,Google,"Came with family. Excellent service, they remembered our order.",4,positive,service,0
+R00505,Vaishali Nagar,2026-10-12,Zomato,"Came with family. masala dosa was cooked to perfection. However, too noisy and cramped.",3,neutral,"ambiance,food",0
+R00506,Vaishali Nagar,2026-10-12,Zomato,Visited on a weekend. Tables and washrooms were very clean. Staff were warm and attentive. Cozy decor and nice music.,5,positive,"ambiance,cleanliness,service",0
+R00507,Vaishali Nagar,2026-10-12,Google,Staff were rude and ignored us.,2,negative,service,0
+R00508,Vaishali Nagar,2026-10-12,Zomato,My whole family had vomiting and stomach pain after dinner here. Way too expensive for such small portions.,1,negative,"price,safety",1
+R00509,Mansarovar,2026-10-12,Zomato,"Dinner here last night. Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+R00510,Malviya Nagar,2026-10-13,Google,Totally worth what we paid. dal makhani was cooked to perfection.,5,positive,"food,price",0
+R00511,Malviya Nagar,2026-10-13,Instagram,Service was fast even on a busy night. The team went out of their way to help us.,5,positive,"service,wait_time",0
+R00512,C-Scheme,2026-10-13,Google,"Beautiful seating and a relaxed vibe! However, very oily biryani, not worth eating!",3,neutral,"ambiance,food",0
+R00513,C-Scheme,2026-10-13,Instagram,Dinner here last night. Average experience.,3,neutral,,0
+R00514,Vaishali Nagar,2026-10-13,Zomato,Visited on a weekend. It was okay.,5,neutral,,0
+R00515,Vaishali Nagar,2026-10-13,Google,Came with family. Fine for a quick meal.,3,neutral,,0
+R00516,Vaishali Nagar,2026-10-13,Zomato,Came with family. Got food poisoning after eating the thali.,1,negative,"food,safety",1
+R00517,Vaishali Nagar,2026-10-13,Google,"Visited on a weekend. I fell sick the same night, fever and diarrhea, pretty sure it was the paneer tikka.",2,negative,"food,safety",1
+R00518,Mansarovar,2026-10-13,Google,Dinner here last night. Nobody seemed to care about the customers! Painfully slow service.,4,negative,"service,wait_time",0
+R00519,Mansarovar,2026-10-13,Zomato,Lunch visit. Painfully slow service. Staff were rude and ignored us.,1,negative,"service,wait_time",0
+R00520,Mansarovar,2026-10-13,Google,"Staff were rude and ignored us. Had to wait over an hour, ridiculous.",1,negative,"service,wait_time",0
+R00521,C-Scheme,2026-10-14,Google,Way too expensive for such small portions!,2,negative,price,0
+R00522,C-Scheme,2026-10-14,Google,Tables and washrooms were very clean.,5,positive,cleanliness,0
+R00523,Vaishali Nagar,2026-10-14,Google,"Visited on a weekend. Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+R00524,Vaishali Nagar,2026-10-14,Google,Came with family. Very reasonable prices for the portion size. The place was spotless.,5,positive,"cleanliness,price",0
+R00525,Vaishali Nagar,2026-10-14,Google,Came with family. Great value for money.,2,positive,price,0
+R00526,Vaishali Nagar,2026-10-14,Instagram,"I fell sick the same night, fever and diarrhea, pretty sure it was the butter chicken!",1,negative,"food,safety",1
+R00527,Vaishali Nagar,2026-10-14,Google,"Lunch visit. I fell sick the same night, fever and diarrhea, pretty sure it was the butter chicken. Overcooked masala dosa and no flavour.",1,negative,"food,safety",1
+R00528,Vaishali Nagar,2026-10-14,Instagram,My whole family had vomiting and stomach pain after dinner here.,1,negative,safety,1
+R00529,Vaishali Nagar,2026-10-14,Google,Lunch visit. Found a cockroach in my chole bhature. Way too expensive for such small portions!,1,negative,"cleanliness,food,price,safety",1
+R00530,Mansarovar,2026-10-14,Google,"Lunch visit. The dal makhani was absolutely delicious. However, the washroom was filthy.",3,neutral,"cleanliness,food",0
+R00531,Mansarovar,2026-10-14,Google,Nobody seemed to care about the customers.,1,negative,service,0
+R00532,Mansarovar,2026-10-14,Google,Visited on a weekend. Nobody seemed to care about the customers.,2,negative,service,0

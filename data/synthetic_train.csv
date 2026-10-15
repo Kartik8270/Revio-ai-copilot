@@ -1,0 +1,901 @@
+text,rating,label_sentiment,label_aspects,label_high_risk
+Visited on a weekend. Very reasonable prices for the portion size.,4,positive,price,0
+Tables and washrooms were very clean.,4,positive,cleanliness,0
+Dinner here last night. The biryani was absolutely delicious. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,food",0
+"Food arrived quickly. Excellent service, they remembered our order. Very reasonable prices for the portion size!",4,positive,"price,service,wait_time",0
+Dinner here last night. The washroom was filthy. Food took forever to arrive. The waiter was careless and got our order wrong.,1,negative,"cleanliness,service,wait_time",0
+"Visited on a weekend. Overcooked paneer tikka and no flavour. Cutlery looked unwashed, pretty gross!",1,negative,"cleanliness,food",0
+Visited on a weekend. Beautiful seating and a relaxed vibe. Our server was super helpful and friendly. Service was fast even on a busy night!,5,positive,"ambiance,service,wait_time",0
+"Visited on a weekend. Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+Visited on a weekend. Fine for a quick meal.,3,neutral,,0
+Lunch visit. The place was spotless. Service was fast even on a busy night.,1,positive,"cleanliness,wait_time",0
+The place was spotless.,5,positive,cleanliness,0
+Visited on a weekend. Polite and welcoming staff! Totally worth what we paid!,4,positive,"price,service",0
+Visited on a weekend. Totally worth what we paid. The butter chicken was absolutely delicious.,5,positive,"food,price",0
+Food arrived quickly. Polite and welcoming staff. The place was spotless.,5,positive,"cleanliness,service,wait_time",0
+Came with family. Cozy decor and nice music. Staff were warm and attentive.,5,positive,"ambiance,service",0
+Painfully slow service. Food was stale and bland. The washroom was filthy.,5,negative,"cleanliness,food,wait_time",0
+Food was stale and bland. Manager was dismissive when we complained.,1,negative,"food,service",0
+The AC was broken and it was unbearably hot. Waited 50 minutes for our food.,2,negative,"ambiance,wait_time",0
+"Had to wait over an hour, ridiculous. Way too expensive for such small portions. Too noisy and cramped!",1,negative,"ambiance,price,wait_time",0
+Manager was dismissive when we complained.,2,negative,service,0
+"Very reasonable prices for the portion size! Lovely ambience, great for family dinners!",4,positive,"ambiance,price",0
+Our server was super helpful and friendly.,5,positive,service,0
+Dinner here last night. Tables and washrooms were very clean!,5,positive,cleanliness,0
+Visited on a weekend. The masala dosa was cold and tasteless!,1,negative,food,0
+Food arrived quickly. Impressively hygienic restaurant!,5,positive,"cleanliness,wait_time",0
+The chole bhature was absolutely delicious. Totally worth what we paid.,5,positive,"food,price",0
+Came with family. Overpriced for what you get. The waiter was careless and got our order wrong. The AC was broken and it was unbearably hot!,2,negative,"ambiance,price,service",0
+Visited on a weekend. Nothing special.,3,neutral,,0
+Food was stale and bland. Painfully slow service!,2,negative,"food,wait_time",0
+Average experience.,3,neutral,,0
+Lunch visit. Too noisy and cramped. Painfully slow service. Manager was dismissive when we complained.,2,negative,"ambiance,service,wait_time",0
+"Came with family. Loved the masala dosa, so flavourful. The place was spotless. Very reasonable prices for the portion size.",5,positive,"cleanliness,food,price",0
+Came with family. Painfully slow service. The washroom was filthy.,2,negative,"cleanliness,wait_time",0
+Manager was dismissive when we complained.,1,negative,service,0
+"Came with family. Beautiful seating and a relaxed vibe. However, overcooked pasta and no flavour.",3,neutral,"ambiance,food",0
+Polite and welcoming staff. Impressively hygienic restaurant.,5,positive,"cleanliness,service",0
+"Lunch visit. The food here never disappoints! However, painfully slow service.",3,neutral,"food,wait_time",0
+Lunch visit. Staff were rude and ignored us.,1,negative,service,0
+Dinner here last night. Nobody seemed to care about the customers. Food took forever to arrive.,1,negative,"service,wait_time",0
+Dinner here last night. Nobody seemed to care about the customers.,1,negative,service,0
+Lunch visit. Our server was super helpful and friendly! Service was fast even on a busy night.,5,positive,"service,wait_time",0
+Polite and welcoming staff.,5,positive,service,0
+Dinner here last night. Not worth the money at all! Nobody seemed to care about the customers! The paneer tikka was cold and tasteless.,1,negative,"food,price,service",0
+"Dinner here last night. Loved the biryani, so flavourful! Impressively hygienic restaurant. Service was fast even on a busy night!",5,positive,"cleanliness,food,wait_time",0
+Dinner here last night. It was okay.,3,neutral,,0
+Dinner here last night. Impressively hygienic restaurant!,5,positive,cleanliness,0
+Very reasonable prices for the portion size! The team went out of their way to help us. Best masala dosa I've had in Jaipur.,5,positive,"food,price,service",0
+"Visited on a weekend. Tables and washrooms were very clean. However, food was stale and bland.",3,neutral,"cleanliness,food",0
+"Excellent service, they remembered our order. Totally worth what we paid.",5,positive,"price,service",0
+Lunch visit. Way too expensive for such small portions. The AC was broken and it was unbearably hot! The waiter was careless and got our order wrong.,1,negative,"ambiance,price,service",0
+Came with family. Overpriced for what you get. Tables were dirty and sticky.,1,negative,"cleanliness,price",0
+Dinner here last night. The team went out of their way to help us! Cozy decor and nice music.,5,positive,"ambiance,service",0
+Lunch visit. Tables and washrooms were very clean. Very reasonable prices for the portion size.,5,positive,"cleanliness,price",0
+Lunch visit. Tables were dirty and sticky. Overpriced for what you get. Food took forever to arrive.,1,negative,"cleanliness,price,wait_time",0
+"Excellent service, they remembered our order. The place was spotless. Very reasonable prices for the portion size.",5,positive,"cleanliness,price,service",0
+"Lovely ambience, great for family dinners. Our server was super helpful and friendly.",5,positive,"ambiance,service",0
+Overcooked biryani and no flavour.,1,negative,food,0
+Beautiful seating and a relaxed vibe. The team went out of their way to help us! Totally worth what we paid.,4,positive,"ambiance,price,service",0
+Dinner here last night. Affordable and filling.,5,positive,price,0
+"Loved the paneer tikka, so flavourful. However, the waiter was careless and got our order wrong.",3,neutral,"food,service",0
+"The dal makhani was absolutely delicious. However, painfully slow service.",3,neutral,"food,wait_time",0
+The thali was absolutely delicious. Totally worth what we paid.,5,positive,"food,price",0
+"Lunch visit. Excellent service, they remembered our order. Service was fast even on a busy night. Lovely ambience, great for family dinners.",5,positive,"ambiance,service,wait_time",0
+Visited on a weekend. Great taste and the dal makhani was fresh. The place was spotless!,5,positive,"cleanliness,food",0
+Dinner here last night. Food arrived quickly!,5,positive,wait_time,0
+Decent but not memorable.,3,neutral,,0
+Overcooked chole bhature and no flavour! The waiter was careless and got our order wrong! Crowded and chaotic atmosphere.,2,negative,"ambiance,food,service",0
+Average experience.,3,neutral,,0
+"Came with family. Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+Lunch visit. Beautiful seating and a relaxed vibe.,5,positive,ambiance,0
+Fine for a quick meal.,3,neutral,,0
+Lunch visit. Food arrived quickly. Impressively hygienic restaurant.,5,positive,"cleanliness,wait_time",0
+Tables were dirty and sticky. Staff were rude and ignored us.,3,negative,"cleanliness,service",0
+Lunch visit. Waited 50 minutes for our food!,2,negative,wait_time,0
+"Came with family. No wait at all, seated immediately. However, overpriced for what you get.",3,neutral,"price,wait_time",0
+The masala dosa tasted off and disappointing. Overpriced for what you get. The washroom was filthy.,2,negative,"cleanliness,food,price",0
+Lunch visit. Decent but not memorable.,3,neutral,,0
+"Came with family. Excellent service, they remembered our order.",5,positive,service,0
+"Cozy decor and nice music. However, nobody seemed to care about the customers.",3,neutral,"ambiance,service",0
+Lunch visit. Great taste and the dal makhani was fresh.,5,positive,food,0
+Came with family. Best biryani I've had in Jaipur.,5,positive,food,0
+Crowded and chaotic atmosphere.,1,negative,ambiance,0
+Dinner here last night. Staff were rude and ignored us.,1,negative,service,0
+Lunch visit. Fine for a quick meal.,3,neutral,,0
+"Excellent service, they remembered our order! However, painfully slow service.",3,neutral,"service,wait_time",0
+Dinner here last night. The masala dosa tasted off and disappointing. Painfully slow service!,1,negative,"food,wait_time",0
+Visited on a weekend. Service was fast even on a busy night. Cozy decor and nice music. The food here never disappoints!,5,positive,"ambiance,food,wait_time",0
+Lunch visit. Fine for a quick meal.,3,neutral,,0
+The waiter was careless and got our order wrong! Overcooked chole bhature and no flavour. Way too expensive for such small portions.,1,negative,"food,price,service",0
+"Loved the paneer tikka, so flavourful. However, too noisy and cramped.",3,neutral,"ambiance,food",0
+Food was stale and bland!,2,negative,food,0
+Very reasonable prices for the portion size. Polite and welcoming staff!,5,positive,"price,service",0
+Very reasonable prices for the portion size. Food arrived quickly.,4,positive,"price,wait_time",0
+Visited on a weekend. Totally worth what we paid! The food here never disappoints!,5,positive,"food,price",0
+"Food took forever to arrive. Cutlery looked unwashed, pretty gross.",2,negative,"cleanliness,wait_time",0
+"Totally worth what we paid! No wait at all, seated immediately. The food here never disappoints!",4,positive,"food,price,wait_time",0
+"Dinner here last night. Food arrived quickly. However, the waiter was careless and got our order wrong.",3,neutral,"service,wait_time",0
+Came with family. Overpriced for what you get. The AC was broken and it was unbearably hot.,1,negative,"ambiance,price",0
+Food was stale and bland. Food took forever to arrive. Crowded and chaotic atmosphere!,1,negative,"ambiance,food,wait_time",0
+"The dal makhani was absolutely delicious! Beautiful seating and a relaxed vibe! No wait at all, seated immediately.",4,positive,"ambiance,food,wait_time",0
+Cozy decor and nice music!,4,positive,ambiance,0
+Food took forever to arrive.,1,negative,wait_time,0
+"Had to wait over an hour, ridiculous. Nobody seemed to care about the customers. Overcooked biryani and no flavour.",2,negative,"food,service,wait_time",0
+Visited on a weekend. Great taste and the pasta was fresh. The team went out of their way to help us!,4,positive,"food,service",0
+Lunch visit. Impressively hygienic restaurant! Food arrived quickly. Best thali I've had in Jaipur.,5,positive,"cleanliness,food,wait_time",0
+"Lovely ambience, great for family dinners. No wait at all, seated immediately. Affordable and filling.",4,positive,"ambiance,price,wait_time",0
+Lunch visit. Not worth the money at all.,2,negative,price,0
+Lunch visit. Food arrived quickly.,5,positive,wait_time,0
+Too noisy and cramped. Waited 50 minutes for our food. The paneer tikka was cold and tasteless.,1,negative,"ambiance,food,wait_time",0
+Came with family. Impressively hygienic restaurant. Great value for money.,5,positive,"cleanliness,price",0
+"Excellent service, they remembered our order! Impressively hygienic restaurant. Very reasonable prices for the portion size!",5,positive,"cleanliness,price,service",0
+Came with family. Great taste and the butter chicken was fresh. Staff were warm and attentive. Service was fast even on a busy night.,5,positive,"food,service,wait_time",0
+Visited on a weekend. Staff were warm and attentive.,5,positive,service,0
+"Dinner here last night. Food arrived quickly. However, overpriced for what you get!",3,neutral,"price,wait_time",0
+Lunch visit. Service was fast even on a busy night. Affordable and filling! paneer tikka was cooked to perfection!,5,positive,"food,price,wait_time",0
+Came with family. Staff were warm and attentive. Beautiful seating and a relaxed vibe.,4,positive,"ambiance,service",0
+"Dinner here last night. Cutlery looked unwashed, pretty gross!",2,negative,cleanliness,0
+"Cozy decor and nice music. Impressively hygienic restaurant. Excellent service, they remembered our order.",5,positive,"ambiance,cleanliness,service",0
+Visited on a weekend. Waited 50 minutes for our food.,1,negative,wait_time,0
+"Lunch visit. Staff were warm and attentive. However, painfully slow service.",3,neutral,"service,wait_time",0
+"Lovely ambience, great for family dinners. No wait at all, seated immediately.",5,positive,"ambiance,wait_time",0
+"Food arrived quickly! However, the washroom was filthy.",3,neutral,"cleanliness,wait_time",0
+Came with family. Average experience.,3,neutral,,0
+"Impressively hygienic restaurant. Lovely ambience, great for family dinners.",5,positive,"ambiance,cleanliness",0
+"No wait at all, seated immediately. Great taste and the biryani was fresh.",5,positive,"food,wait_time",0
+"Dinner here last night. Impressively hygienic restaurant! However, way too expensive for such small portions.",3,neutral,"cleanliness,price",0
+Waited 50 minutes for our food. Way too expensive for such small portions.,2,negative,"price,wait_time",0
+Came with family. The food here never disappoints. Totally worth what we paid.,5,positive,"food,price",0
+The pasta tasted off and disappointing.,1,negative,food,0
+Crowded and chaotic atmosphere.,1,negative,ambiance,0
+Visited on a weekend. Food was stale and bland! Way too expensive for such small portions! Tables were dirty and sticky.,1,negative,"cleanliness,food,price",0
+Came with family. It was okay.,3,neutral,,0
+Came with family. Totally worth what we paid. Staff were warm and attentive. The place was spotless.,1,positive,"cleanliness,price,service",0
+"Came with family. Crowded and chaotic atmosphere! Waited 50 minutes for our food. Cutlery looked unwashed, pretty gross.",2,negative,"ambiance,cleanliness,wait_time",0
+"Painfully slow service! Cutlery looked unwashed, pretty gross!",1,negative,"cleanliness,wait_time",0
+Dinner here last night. Impressively hygienic restaurant. Affordable and filling. The team went out of their way to help us.,5,positive,"cleanliness,price,service",0
+"Came with family. Had to wait over an hour, ridiculous. Very oily pasta, not worth eating!",1,negative,"food,wait_time",0
+"Excellent service, they remembered our order!",5,positive,service,0
+"Affordable and filling. Lovely ambience, great for family dinners.",4,positive,"ambiance,price",0
+Visited on a weekend. Decent but not memorable.,3,neutral,,0
+The chole bhature tasted off and disappointing. Not worth the money at all.,2,negative,"food,price",0
+Lunch visit. Overpriced for what you get! Food took forever to arrive!,2,negative,"price,wait_time",0
+"Cozy decor and nice music. However, the dal makhani was cold and tasteless.",3,neutral,"ambiance,food",0
+Lunch visit. Too noisy and cramped. The pasta was cold and tasteless!,2,negative,"ambiance,food",0
+Came with family. Fine for a quick meal.,3,neutral,,0
+Lunch visit. The pasta was absolutely delicious! The team went out of their way to help us. Impressively hygienic restaurant.,5,positive,"cleanliness,food,service",0
+Lunch visit. Great taste and the dal makhani was fresh.,5,positive,food,0
+The chole bhature was cold and tasteless. Painfully slow service.,1,negative,"food,wait_time",0
+Affordable and filling. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price",0
+The washroom was filthy. The AC was broken and it was unbearably hot. Food was stale and bland.,1,negative,"ambiance,cleanliness,food",0
+The washroom was filthy! The AC was broken and it was unbearably hot.,1,negative,"ambiance,cleanliness",0
+"Lovely ambience, great for family dinners. However, the waiter was careless and got our order wrong!",3,neutral,"ambiance,service",0
+Came with family. Great value for money. The dal makhani was absolutely delicious! The place was spotless.,5,positive,"cleanliness,food,price",0
+Visited on a weekend. Beautiful seating and a relaxed vibe! Totally worth what we paid.,5,positive,"ambiance,price",0
+Came with family. Food was stale and bland!,1,negative,food,0
+"Came with family. Lovely ambience, great for family dinners. Food arrived quickly!",5,positive,"ambiance,wait_time",0
+"The place was spotless. No wait at all, seated immediately! Lovely ambience, great for family dinners.",5,positive,"ambiance,cleanliness,wait_time",0
+Very reasonable prices for the portion size.,5,positive,price,0
+It was okay.,3,neutral,,0
+Came with family. The washroom was filthy. Waited 50 minutes for our food!,2,negative,"cleanliness,wait_time",0
+Very reasonable prices for the portion size.,5,positive,price,0
+Way too expensive for such small portions! Tables were dirty and sticky.,1,negative,"cleanliness,price",0
+Cozy decor and nice music! Service was fast even on a busy night!,5,positive,"ambiance,wait_time",0
+"Dinner here last night. The team went out of their way to help us. However, overpriced for what you get.",3,neutral,"price,service",0
+Came with family. Nothing special.,3,neutral,,0
+Lunch visit. Food arrived quickly. Beautiful seating and a relaxed vibe! Tables and washrooms were very clean!,5,positive,"ambiance,cleanliness,wait_time",0
+Staff were warm and attentive! The place was spotless.,4,positive,"cleanliness,service",0
+Came with family. Average experience.,3,neutral,,0
+"Came with family. Excellent service, they remembered our order. Beautiful seating and a relaxed vibe.",4,positive,"ambiance,service",0
+Came with family. Fine for a quick meal.,3,neutral,,0
+Dinner here last night. Crowded and chaotic atmosphere! Staff were rude and ignored us.,2,negative,"ambiance,service",0
+Visited on a weekend. Fine for a quick meal.,3,neutral,,0
+Visited on a weekend. Food took forever to arrive.,1,negative,wait_time,0
+Visited on a weekend. Painfully slow service.,1,negative,wait_time,0
+Lunch visit. Polite and welcoming staff. butter chicken was cooked to perfection.,5,positive,"food,service",0
+"Visited on a weekend. Very oily thali, not worth eating. The washroom was filthy.",1,negative,"cleanliness,food",0
+"Visited on a weekend. No wait at all, seated immediately! However, the waiter was careless and got our order wrong.",3,neutral,"service,wait_time",0
+The place was spotless!,5,positive,cleanliness,0
+Visited on a weekend. Crowded and chaotic atmosphere! Way too expensive for such small portions.,1,negative,"ambiance,price",0
+"Dinner here last night. No wait at all, seated immediately.",4,positive,wait_time,0
+"Tables and washrooms were very clean. However, the waiter was careless and got our order wrong.",3,neutral,"cleanliness,service",0
+Totally worth what we paid.,5,positive,price,0
+Lunch visit. Too noisy and cramped! The waiter was careless and got our order wrong.,1,negative,"ambiance,service",0
+Came with family. The pasta was cold and tasteless. The washroom was filthy.,1,negative,"cleanliness,food",0
+"Visited on a weekend. Great value for money. Food arrived quickly. Lovely ambience, great for family dinners.",5,positive,"ambiance,price,wait_time",0
+Came with family. Waited 50 minutes for our food. The waiter was careless and got our order wrong.,1,negative,"service,wait_time",0
+"No wait at all, seated immediately! Excellent service, they remembered our order. Cozy decor and nice music.",4,positive,"ambiance,service,wait_time",0
+Crowded and chaotic atmosphere.,1,negative,ambiance,0
+Dinner here last night. Tables and washrooms were very clean.,4,positive,cleanliness,0
+Decent but not memorable.,3,neutral,,0
+Lunch visit. Great value for money. Food arrived quickly. Our server was super helpful and friendly.,4,positive,"price,service,wait_time",0
+Best masala dosa I've had in Jaipur.,5,positive,food,0
+Visited on a weekend. Affordable and filling! Service was fast even on a busy night! The butter chicken was absolutely delicious.,5,positive,"food,price,wait_time",0
+Impressively hygienic restaurant.,4,positive,cleanliness,0
+"Visited on a weekend. The team went out of their way to help us. However, the AC was broken and it was unbearably hot!",3,neutral,"ambiance,service",0
+"Great taste and the paneer tikka was fresh. However, staff were rude and ignored us.",3,neutral,"food,service",0
+Lunch visit. Service was fast even on a busy night. Totally worth what we paid. The place was spotless!,5,positive,"cleanliness,price,wait_time",0
+Dinner here last night. Cozy decor and nice music. Tables and washrooms were very clean.,4,positive,"ambiance,cleanliness",0
+Visited on a weekend. Overpriced for what you get.,1,negative,price,0
+Not worth the money at all. Staff were rude and ignored us. Overcooked pasta and no flavour!,1,negative,"food,price,service",0
+"The masala dosa was cold and tasteless. Cutlery looked unwashed, pretty gross. Overpriced for what you get.",1,negative,"cleanliness,food,price",0
+"Staff were warm and attentive. However, overcooked masala dosa and no flavour.",3,neutral,"food,service",0
+"Lunch visit. Cozy decor and nice music. No wait at all, seated immediately.",4,positive,"ambiance,wait_time",0
+Lunch visit. Food took forever to arrive. Overpriced for what you get.,1,negative,"price,wait_time",0
+The washroom was filthy. Overpriced for what you get.,1,negative,"cleanliness,price",0
+The team went out of their way to help us. Service was fast even on a busy night.,5,positive,"service,wait_time",0
+Visited on a weekend. Nobody seemed to care about the customers.,1,negative,service,0
+Came with family. Not worth the money at all.,1,negative,price,0
+Decent but not memorable.,3,neutral,,0
+"Tables and washrooms were very clean. However, nobody seemed to care about the customers.",3,neutral,"cleanliness,service",0
+"Dinner here last night. Tables and washrooms were very clean. No wait at all, seated immediately!",4,positive,"cleanliness,wait_time",0
+Way too expensive for such small portions.,1,negative,price,0
+"Visited on a weekend. Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+Staff were warm and attentive.,4,positive,service,0
+masala dosa was cooked to perfection!,5,positive,food,0
+Polite and welcoming staff! Great value for money.,5,positive,"price,service",0
+Cozy decor and nice music.,5,positive,ambiance,0
+"Polite and welcoming staff! No wait at all, seated immediately.",5,positive,"service,wait_time",0
+Lunch visit. Polite and welcoming staff! Very reasonable prices for the portion size.,5,positive,"price,service",0
+The washroom was filthy. Food was stale and bland. Manager was dismissive when we complained!,1,negative,"cleanliness,food,service",0
+Cozy decor and nice music.,5,positive,ambiance,0
+Came with family. Staff were warm and attentive.,4,positive,service,0
+Crowded and chaotic atmosphere. Food was stale and bland.,1,negative,"ambiance,food",0
+Visited on a weekend. Service was fast even on a busy night.,5,positive,wait_time,0
+"Came with family. Tables and washrooms were very clean. No wait at all, seated immediately. Beautiful seating and a relaxed vibe.",5,positive,"ambiance,cleanliness,wait_time",0
+Lunch visit. Impressively hygienic restaurant.,4,positive,cleanliness,0
+Came with family. Food arrived quickly! Affordable and filling. masala dosa was cooked to perfection.,4,positive,"food,price,wait_time",0
+Dinner here last night. The team went out of their way to help us.,1,positive,service,0
+Crowded and chaotic atmosphere.,2,negative,ambiance,0
+The AC was broken and it was unbearably hot.,2,negative,ambiance,0
+Fine for a quick meal.,3,neutral,,0
+Came with family. The place was spotless! Food arrived quickly.,5,positive,"cleanliness,wait_time",0
+Visited on a weekend. Average experience.,3,neutral,,0
+Visited on a weekend. Totally worth what we paid.,4,positive,price,0
+Came with family. Too noisy and cramped. The washroom was filthy.,1,negative,"ambiance,cleanliness",0
+Visited on a weekend. Not worth the money at all.,1,negative,price,0
+"Crowded and chaotic atmosphere. Cutlery looked unwashed, pretty gross.",3,negative,"ambiance,cleanliness",0
+"Visited on a weekend. No wait at all, seated immediately. Great value for money. The chole bhature was absolutely delicious.",5,positive,"food,price,wait_time",0
+Dinner here last night. Affordable and filling. Best butter chicken I've had in Jaipur!,4,positive,"food,price",0
+"Visited on a weekend. Tables and washrooms were very clean! Beautiful seating and a relaxed vibe. No wait at all, seated immediately.",5,positive,"ambiance,cleanliness,wait_time",0
+"Came with family. The team went out of their way to help us! However, cutlery looked unwashed, pretty gross.",3,neutral,"cleanliness,service",0
+"Lovely ambience, great for family dinners. However, very oily thali, not worth eating.",3,neutral,"ambiance,food",0
+"The thali was absolutely delicious. Our server was super helpful and friendly. No wait at all, seated immediately.",5,positive,"food,service,wait_time",0
+Not worth the money at all.,1,negative,price,0
+Visited on a weekend. The team went out of their way to help us.,4,positive,service,0
+It was okay.,3,neutral,,0
+"Came with family. Food arrived quickly. However, cutlery looked unwashed, pretty gross!",3,neutral,"cleanliness,wait_time",0
+Nobody seemed to care about the customers. The AC was broken and it was unbearably hot.,1,negative,"ambiance,service",0
+"Came with family. Had to wait over an hour, ridiculous! The AC was broken and it was unbearably hot.",1,negative,"ambiance,wait_time",0
+Dinner here last night. Too noisy and cramped. Tables were dirty and sticky! The waiter was careless and got our order wrong.,2,negative,"ambiance,cleanliness,service",0
+Waited 50 minutes for our food. Tables were dirty and sticky!,4,negative,"cleanliness,wait_time",0
+Dinner here last night. It was okay.,3,neutral,,0
+Visited on a weekend. Beautiful seating and a relaxed vibe. Impressively hygienic restaurant.,4,positive,"ambiance,cleanliness",0
+Overcooked thali and no flavour!,2,negative,food,0
+Dinner here last night. Food took forever to arrive. Crowded and chaotic atmosphere!,1,negative,"ambiance,wait_time",0
+Lunch visit. The team went out of their way to help us. Very reasonable prices for the portion size! Cozy decor and nice music.,4,positive,"ambiance,price,service",0
+Tables were dirty and sticky. Overpriced for what you get.,1,negative,"cleanliness,price",0
+The biryani was absolutely delicious.,5,positive,food,0
+Came with family. Impressively hygienic restaurant.,4,positive,cleanliness,0
+Not worth the money at all.,1,negative,price,0
+Visited on a weekend. Overcooked masala dosa and no flavour.,1,negative,food,0
+Service was fast even on a busy night. Affordable and filling.,4,positive,"price,wait_time",0
+"The food here never disappoints. However, painfully slow service.",3,neutral,"food,wait_time",0
+"Came with family. Food arrived quickly! However, nobody seemed to care about the customers.",3,neutral,"service,wait_time",0
+"Visited on a weekend. Great value for money. However, had to wait over an hour, ridiculous.",3,neutral,"price,wait_time",0
+"Lunch visit. Great value for money. However, painfully slow service.",3,neutral,"price,wait_time",0
+Totally worth what we paid! Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price",0
+Lunch visit. It was okay.,3,neutral,,0
+Dinner here last night. Decent but not memorable.,3,neutral,,0
+Came with family. The thali was cold and tasteless!,2,negative,food,0
+"Tables and washrooms were very clean. No wait at all, seated immediately.",5,positive,"cleanliness,wait_time",0
+Lunch visit. Fine for a quick meal.,3,neutral,,0
+"Dinner here last night. No wait at all, seated immediately. Best thali I've had in Jaipur. Lovely ambience, great for family dinners.",4,positive,"ambiance,food,wait_time",0
+Lunch visit. Totally worth what we paid!,4,positive,price,0
+Food arrived quickly. Totally worth what we paid.,5,positive,"price,wait_time",0
+Nobody seemed to care about the customers. Not worth the money at all.,2,negative,"price,service",0
+"Lunch visit. Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+Dinner here last night. Great value for money.,5,positive,price,0
+"Lunch visit. The food here never disappoints. Excellent service, they remembered our order. Very reasonable prices for the portion size.",4,positive,"food,price,service",0
+Came with family. The place was spotless. chole bhature was cooked to perfection.,4,positive,"cleanliness,food",0
+Too noisy and cramped. Nobody seemed to care about the customers.,1,negative,"ambiance,service",0
+"Lunch visit. Tables and washrooms were very clean! Lovely ambience, great for family dinners.",5,positive,"ambiance,cleanliness",0
+Lunch visit. Food arrived quickly! The masala dosa was absolutely delicious. Great value for money.,4,positive,"food,price,wait_time",0
+Came with family. The team went out of their way to help us.,5,positive,service,0
+The thali tasted off and disappointing.,1,negative,food,0
+Nothing special.,3,neutral,,0
+Lunch visit. Service was fast even on a busy night! Totally worth what we paid.,5,positive,"price,wait_time",0
+Our server was super helpful and friendly. Great value for money!,5,positive,"price,service",0
+Lunch visit. The team went out of their way to help us!,5,positive,service,0
+Visited on a weekend. Totally worth what we paid. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price",0
+The washroom was filthy!,2,negative,cleanliness,0
+Visited on a weekend. Decent but not memorable.,3,neutral,,0
+Came with family. Tables were dirty and sticky. Not worth the money at all!,2,negative,"cleanliness,price",0
+Overcooked butter chicken and no flavour. Tables were dirty and sticky.,1,negative,"cleanliness,food",0
+Affordable and filling. Service was fast even on a busy night.,4,positive,"price,wait_time",0
+Not worth the money at all.,1,negative,price,0
+"Lunch visit. Our server was super helpful and friendly! Loved the paneer tikka, so flavourful.",5,positive,"food,service",0
+The washroom was filthy. Staff were rude and ignored us. Food was stale and bland!,1,negative,"cleanliness,food,service",0
+Dinner here last night. The team went out of their way to help us. Food arrived quickly.,5,positive,"service,wait_time",0
+"Dinner here last night. Overpriced for what you get. Had to wait over an hour, ridiculous.",1,negative,"price,wait_time",0
+Lunch visit. Polite and welcoming staff. Food arrived quickly! The place was spotless.,5,positive,"cleanliness,service,wait_time",0
+"Visited on a weekend. The AC was broken and it was unbearably hot. Very oily masala dosa, not worth eating.",1,negative,"ambiance,food",0
+Polite and welcoming staff.,5,positive,service,0
+"Dinner here last night. Impressively hygienic restaurant. However, staff were rude and ignored us.",3,neutral,"cleanliness,service",0
+Came with family. The AC was broken and it was unbearably hot. Manager was dismissive when we complained.,1,negative,"ambiance,service",0
+"Visited on a weekend. Affordable and filling. Our server was super helpful and friendly. Loved the pasta, so flavourful!",4,positive,"food,price,service",0
+Came with family. Very reasonable prices for the portion size! The dal makhani was absolutely delicious.,5,positive,"food,price",0
+Visited on a weekend. Too noisy and cramped!,1,negative,ambiance,0
+"The place was spotless. However, the AC was broken and it was unbearably hot.",3,neutral,"ambiance,cleanliness",0
+Came with family. Cozy decor and nice music. Very reasonable prices for the portion size.,5,positive,"ambiance,price",0
+"The dal makhani was absolutely delicious. Excellent service, they remembered our order.",5,positive,"food,service",0
+Lunch visit. Polite and welcoming staff! Food arrived quickly.,5,positive,"service,wait_time",0
+Food was stale and bland. Food took forever to arrive!,1,negative,"food,wait_time",0
+Staff were rude and ignored us!,1,negative,service,0
+"Cozy decor and nice music. Tables and washrooms were very clean. No wait at all, seated immediately.",5,positive,"ambiance,cleanliness,wait_time",0
+Came with family. Tables were dirty and sticky.,1,negative,cleanliness,0
+Lunch visit. Decent but not memorable.,3,neutral,,0
+Lunch visit. Our server was super helpful and friendly! Cozy decor and nice music.,4,positive,"ambiance,service",0
+"Visited on a weekend. Cutlery looked unwashed, pretty gross. Food was stale and bland! Too noisy and cramped.",1,negative,"ambiance,cleanliness,food",0
+"Visited on a weekend. Way too expensive for such small portions. Cutlery looked unwashed, pretty gross.",2,negative,"cleanliness,price",0
+Tables and washrooms were very clean.,5,positive,cleanliness,0
+Dinner here last night. Beautiful seating and a relaxed vibe. Service was fast even on a busy night.,5,positive,"ambiance,wait_time",0
+"Visited on a weekend. Cozy decor and nice music. No wait at all, seated immediately.",5,positive,"ambiance,wait_time",0
+"Visited on a weekend. No wait at all, seated immediately.",5,positive,wait_time,0
+Painfully slow service. Too noisy and cramped!,2,negative,"ambiance,wait_time",0
+"Staff were warm and attentive. However, not worth the money at all.",3,neutral,"price,service",0
+Dinner here last night. Best pasta I've had in Jaipur. Very reasonable prices for the portion size.,4,positive,"food,price",0
+Dinner here last night. Totally worth what we paid. Impressively hygienic restaurant. Food arrived quickly.,5,positive,"cleanliness,price,wait_time",0
+Visited on a weekend. Totally worth what we paid. The team went out of their way to help us.,3,positive,"price,service",0
+The washroom was filthy. Nobody seemed to care about the customers. Overpriced for what you get.,1,negative,"cleanliness,price,service",0
+The butter chicken was cold and tasteless. Food took forever to arrive.,1,negative,"food,wait_time",0
+"Came with family. Cutlery looked unwashed, pretty gross. Not worth the money at all.",2,negative,"cleanliness,price",0
+Dinner here last night. Overpriced for what you get. The washroom was filthy.,1,negative,"cleanliness,price",0
+Dinner here last night. Service was fast even on a busy night! Tables and washrooms were very clean. Very reasonable prices for the portion size.,4,positive,"cleanliness,price,wait_time",0
+"Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+Cozy decor and nice music.,5,positive,ambiance,0
+Average experience.,3,neutral,,0
+Great taste and the masala dosa was fresh. Impressively hygienic restaurant.,5,positive,"cleanliness,food",0
+Totally worth what we paid.,5,positive,price,0
+Nothing special.,3,neutral,,0
+The waiter was careless and got our order wrong!,1,negative,service,0
+Overcooked biryani and no flavour. Food took forever to arrive.,2,negative,"food,wait_time",0
+Lunch visit. Tables were dirty and sticky.,1,negative,cleanliness,0
+Visited on a weekend. The team went out of their way to help us!,4,positive,service,0
+"Best dal makhani I've had in Jaipur! However, overpriced for what you get!",3,neutral,"food,price",0
+"Had to wait over an hour, ridiculous.",1,negative,wait_time,0
+Visited on a weekend. Impressively hygienic restaurant.,5,positive,cleanliness,0
+Lunch visit. Average experience.,3,neutral,,0
+"Visited on a weekend. Our server was super helpful and friendly. Lovely ambience, great for family dinners.",4,positive,"ambiance,service",0
+"Cozy decor and nice music. However, the waiter was careless and got our order wrong.",3,neutral,"ambiance,service",0
+Dinner here last night. Impressively hygienic restaurant. Great taste and the chole bhature was fresh! Great value for money.,1,positive,"cleanliness,food,price",0
+Lunch visit. Manager was dismissive when we complained.,1,negative,service,0
+Lunch visit. Nobody seemed to care about the customers! Too noisy and cramped.,2,negative,"ambiance,service",0
+Nobody seemed to care about the customers.,1,negative,service,0
+Lunch visit. Not worth the money at all!,1,negative,price,0
+"No wait at all, seated immediately.",5,positive,wait_time,0
+Tables were dirty and sticky! Too noisy and cramped. The waiter was careless and got our order wrong.,1,negative,"ambiance,cleanliness,service",0
+Overpriced for what you get!,1,negative,price,0
+Came with family. Not worth the money at all!,1,negative,price,0
+Visited on a weekend. Decent but not memorable.,3,neutral,,0
+Dinner here last night. Overpriced for what you get. The waiter was careless and got our order wrong.,1,negative,"price,service",0
+It was okay.,3,neutral,,0
+"Lunch visit. Impressively hygienic restaurant! Lovely ambience, great for family dinners! Food arrived quickly.",5,positive,"ambiance,cleanliness,wait_time",0
+Our server was super helpful and friendly! Impressively hygienic restaurant.,4,positive,"cleanliness,service",0
+Lunch visit. Great taste and the dal makhani was fresh.,5,positive,food,0
+Manager was dismissive when we complained.,1,negative,service,0
+Dinner here last night. Waited 50 minutes for our food. Not worth the money at all!,2,negative,"price,wait_time",0
+The masala dosa tasted off and disappointing! Too noisy and cramped!,1,negative,"ambiance,food",0
+Visited on a weekend. Food arrived quickly. Cozy decor and nice music! Our server was super helpful and friendly.,5,positive,"ambiance,service,wait_time",0
+Visited on a weekend. Overpriced for what you get.,1,negative,price,0
+Visited on a weekend. It was okay.,3,neutral,,0
+Visited on a weekend. Tables were dirty and sticky.,2,negative,cleanliness,0
+Overcooked biryani and no flavour! Way too expensive for such small portions.,1,negative,"food,price",0
+Not worth the money at all.,1,negative,price,0
+Lunch visit. Average experience.,3,neutral,,0
+Came with family. Painfully slow service. Food was stale and bland.,1,negative,"food,wait_time",0
+Dinner here last night. Great taste and the masala dosa was fresh!,5,positive,food,0
+Came with family. Impressively hygienic restaurant. Great value for money! Service was fast even on a busy night.,5,positive,"cleanliness,price,wait_time",0
+Decent but not memorable.,3,neutral,,0
+Manager was dismissive when we complained!,2,negative,service,0
+Lunch visit. Cozy decor and nice music.,5,positive,ambiance,0
+Visited on a weekend. Nothing special.,3,neutral,,0
+"Dinner here last night. Loved the chole bhature, so flavourful. Beautiful seating and a relaxed vibe. Great value for money.",5,positive,"ambiance,food,price",0
+Lunch visit. The butter chicken was absolutely delicious. Impressively hygienic restaurant.,5,positive,"cleanliness,food",0
+"Totally worth what we paid! Lovely ambience, great for family dinners! The masala dosa was absolutely delicious!",5,positive,"ambiance,food,price",0
+Dinner here last night. The place was spotless. Great taste and the biryani was fresh.,5,positive,"cleanliness,food",0
+Dinner here last night. Great value for money. Beautiful seating and a relaxed vibe!,4,positive,"ambiance,price",0
+Lunch visit. The pasta was absolutely delicious. The team went out of their way to help us! Great value for money.,5,positive,"food,price,service",0
+Visited on a weekend. It was okay.,3,neutral,,0
+Crowded and chaotic atmosphere.,1,negative,ambiance,0
+"Cutlery looked unwashed, pretty gross.",2,negative,cleanliness,0
+"Visited on a weekend. Very oily paneer tikka, not worth eating!",1,negative,food,0
+Lunch visit. Way too expensive for such small portions. The washroom was filthy.,1,negative,"cleanliness,price",0
+Too noisy and cramped. The pasta was cold and tasteless!,1,negative,"ambiance,food",0
+Food took forever to arrive. Too noisy and cramped.,1,negative,"ambiance,wait_time",0
+Came with family. Not worth the money at all.,1,negative,price,0
+Lunch visit. Food was stale and bland.,1,negative,food,0
+"Excellent service, they remembered our order! However, overcooked butter chicken and no flavour.",3,neutral,"food,service",0
+Visited on a weekend. Not worth the money at all! The AC was broken and it was unbearably hot! The chole bhature tasted off and disappointing.,1,negative,"ambiance,food,price",0
+Staff were rude and ignored us. Food was stale and bland.,1,negative,"food,service",0
+The AC was broken and it was unbearably hot!,1,negative,ambiance,0
+Food arrived quickly. Great value for money. Our server was super helpful and friendly.,5,positive,"price,service,wait_time",0
+"Came with family. Way too expensive for such small portions! Manager was dismissive when we complained. Cutlery looked unwashed, pretty gross.",1,negative,"cleanliness,price,service",0
+Overpriced for what you get. The AC was broken and it was unbearably hot.,1,negative,"ambiance,price",0
+"Lovely ambience, great for family dinners.",5,positive,ambiance,0
+pasta was cooked to perfection! Impressively hygienic restaurant.,5,positive,"cleanliness,food",0
+"Loved the masala dosa, so flavourful. Totally worth what we paid.",5,positive,"food,price",0
+The masala dosa was absolutely delicious.,4,positive,food,0
+"Overpriced for what you get. Had to wait over an hour, ridiculous!",1,negative,"price,wait_time",0
+"Dinner here last night. Food arrived quickly. Lovely ambience, great for family dinners.",5,positive,"ambiance,wait_time",0
+"Visited on a weekend. Excellent service, they remembered our order. Food arrived quickly.",5,positive,"service,wait_time",0
+"Visited on a weekend. Excellent service, they remembered our order. No wait at all, seated immediately. Beautiful seating and a relaxed vibe.",4,positive,"ambiance,service,wait_time",0
+"Dinner here last night. Cozy decor and nice music. However, the washroom was filthy.",3,neutral,"ambiance,cleanliness",0
+It was okay.,3,neutral,,0
+"Great value for money. However, tables were dirty and sticky!",3,neutral,"cleanliness,price",0
+"Lunch visit. Waited 50 minutes for our food. The pasta tasted off and disappointing. Cutlery looked unwashed, pretty gross.",2,negative,"cleanliness,food,wait_time",0
+"Cutlery looked unwashed, pretty gross! Crowded and chaotic atmosphere!",2,negative,"ambiance,cleanliness",0
+Came with family. The chole bhature was absolutely delicious. The place was spotless.,5,positive,"cleanliness,food",0
+Crowded and chaotic atmosphere. Way too expensive for such small portions. Food took forever to arrive.,1,negative,"ambiance,price,wait_time",0
+Lunch visit. The team went out of their way to help us!,4,positive,service,0
+Dinner here last night. Nobody seemed to care about the customers. Way too expensive for such small portions!,1,negative,"price,service",0
+Dinner here last night. Tables were dirty and sticky. Not worth the money at all!,1,negative,"cleanliness,price",0
+Lunch visit. Average experience.,3,neutral,,0
+Our server was super helpful and friendly.,5,positive,service,0
+Great value for money! Cozy decor and nice music! masala dosa was cooked to perfection.,5,positive,"ambiance,food,price",0
+"Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+Visited on a weekend. Fine for a quick meal.,3,neutral,,0
+"No wait at all, seated immediately.",5,positive,wait_time,0
+The place was spotless.,5,positive,cleanliness,0
+Tables were dirty and sticky. Not worth the money at all!,2,negative,"cleanliness,price",0
+Dinner here last night. The place was spotless!,5,positive,cleanliness,0
+Came with family. Affordable and filling. Cozy decor and nice music. Staff were warm and attentive.,4,positive,"ambiance,price,service",0
+Came with family. Staff were warm and attentive.,5,positive,service,0
+Service was fast even on a busy night. Totally worth what we paid. Polite and welcoming staff.,5,positive,"price,service,wait_time",0
+Came with family. Food took forever to arrive. Overpriced for what you get.,1,negative,"price,wait_time",0
+"Came with family. Loved the pasta, so flavourful. However, not worth the money at all.",3,neutral,"food,price",0
+Totally worth what we paid. Impressively hygienic restaurant.,5,positive,"cleanliness,price",0
+The place was spotless. The team went out of their way to help us.,4,positive,"cleanliness,service",0
+Great value for money!,4,positive,price,0
+"Cutlery looked unwashed, pretty gross.",1,negative,cleanliness,0
+"Lovely ambience, great for family dinners!",4,positive,ambiance,0
+The AC was broken and it was unbearably hot. The waiter was careless and got our order wrong!,1,negative,"ambiance,service",0
+Tables and washrooms were very clean.,5,positive,cleanliness,0
+Lunch visit. Fine for a quick meal.,3,neutral,,0
+The washroom was filthy! Way too expensive for such small portions. Overcooked butter chicken and no flavour.,1,negative,"cleanliness,food,price",0
+The place was spotless! Affordable and filling.,5,positive,"cleanliness,price",0
+"Dinner here last night. Beautiful seating and a relaxed vibe. No wait at all, seated immediately!",5,positive,"ambiance,wait_time",0
+"Dinner here last night. Loved the paneer tikka, so flavourful. Food arrived quickly.",4,positive,"food,wait_time",0
+Tables and washrooms were very clean!,5,positive,cleanliness,0
+"Visited on a weekend. Lovely ambience, great for family dinners. However, tables were dirty and sticky.",3,neutral,"ambiance,cleanliness",0
+Came with family. The dal makhani tasted off and disappointing. Food took forever to arrive.,1,negative,"food,wait_time",0
+Lunch visit. Service was fast even on a busy night. The place was spotless.,5,positive,"cleanliness,wait_time",0
+Tables and washrooms were very clean!,5,positive,cleanliness,0
+The place was spotless. Food arrived quickly!,4,positive,"cleanliness,wait_time",0
+Nobody seemed to care about the customers!,1,negative,service,0
+Came with family. Fine for a quick meal.,3,neutral,,0
+It was okay.,3,neutral,,0
+Decent but not memorable.,3,neutral,,0
+Impressively hygienic restaurant. Polite and welcoming staff. Great value for money!,5,positive,"cleanliness,price,service",0
+Lunch visit. Overpriced for what you get. The waiter was careless and got our order wrong. Waited 50 minutes for our food.,1,negative,"price,service,wait_time",0
+"Visited on a weekend. Great value for money. Lovely ambience, great for family dinners!",5,positive,"ambiance,price",0
+Lunch visit. Nothing special.,3,neutral,,0
+Visited on a weekend. Great value for money! Tables and washrooms were very clean.,5,positive,"cleanliness,price",0
+Came with family. Way too expensive for such small portions. The AC was broken and it was unbearably hot. Painfully slow service.,2,negative,"ambiance,price,wait_time",0
+"Visited on a weekend. No wait at all, seated immediately.",4,positive,wait_time,0
+Came with family. Food arrived quickly! Cozy decor and nice music! Polite and welcoming staff!,4,positive,"ambiance,service,wait_time",0
+Beautiful seating and a relaxed vibe. Totally worth what we paid.,5,positive,"ambiance,price",0
+Came with family. Crowded and chaotic atmosphere.,2,negative,ambiance,0
+Food arrived quickly! Our server was super helpful and friendly.,4,positive,"service,wait_time",0
+Staff were rude and ignored us. Too noisy and cramped.,1,negative,"ambiance,service",0
+"Visited on a weekend. Cutlery looked unwashed, pretty gross!",1,negative,cleanliness,0
+Lunch visit. The pasta was cold and tasteless! Tables were dirty and sticky. Food took forever to arrive.,1,negative,"cleanliness,food,wait_time",0
+Average experience.,3,neutral,,0
+Lunch visit. Totally worth what we paid.,5,positive,price,0
+"Very oily masala dosa, not worth eating!",1,negative,food,0
+Visited on a weekend. Our server was super helpful and friendly! The place was spotless.,5,positive,"cleanliness,service",0
+Came with family. Food was stale and bland!,1,negative,food,0
+"Dinner here last night. Service was fast even on a busy night! However, cutlery looked unwashed, pretty gross.",3,neutral,"cleanliness,wait_time",0
+Nothing special.,3,neutral,,0
+"Visited on a weekend. Cutlery looked unwashed, pretty gross. Nobody seemed to care about the customers.",1,negative,"cleanliness,service",0
+Dinner here last night. Too noisy and cramped! Tables were dirty and sticky.,1,negative,"ambiance,cleanliness",0
+Beautiful seating and a relaxed vibe! Staff were warm and attentive.,4,positive,"ambiance,service",0
+"Dinner here last night. No wait at all, seated immediately.",4,positive,wait_time,0
+"No wait at all, seated immediately. Great taste and the paneer tikka was fresh. Great value for money.",4,positive,"food,price,wait_time",0
+Came with family. Affordable and filling.,5,positive,price,0
+"Visited on a weekend. No wait at all, seated immediately!",5,positive,wait_time,0
+"Dinner here last night. The washroom was filthy. Had to wait over an hour, ridiculous. The waiter was careless and got our order wrong!",1,negative,"cleanliness,service,wait_time",0
+Impressively hygienic restaurant. Service was fast even on a busy night!,4,positive,"cleanliness,wait_time",0
+Lunch visit. The place was spotless. Great taste and the chole bhature was fresh.,5,positive,"cleanliness,food",0
+Dinner here last night. Manager was dismissive when we complained. The washroom was filthy.,5,negative,"cleanliness,service",0
+Nobody seemed to care about the customers. The AC was broken and it was unbearably hot.,1,negative,"ambiance,service",0
+Service was fast even on a busy night.,5,positive,wait_time,0
+Came with family. Nothing special.,3,neutral,,0
+"Staff were warm and attentive! However, crowded and chaotic atmosphere.",3,neutral,"ambiance,service",0
+"Dinner here last night. No wait at all, seated immediately. Cozy decor and nice music.",5,positive,"ambiance,wait_time",0
+Dinner here last night. Overcooked pasta and no flavour. The AC was broken and it was unbearably hot.,2,negative,"ambiance,food",0
+Visited on a weekend. Affordable and filling.,5,positive,price,0
+Decent but not memorable.,3,neutral,,0
+Visited on a weekend. Nobody seemed to care about the customers. The washroom was filthy.,1,negative,"cleanliness,service",0
+"No wait at all, seated immediately. However, cutlery looked unwashed, pretty gross.",3,neutral,"cleanliness,wait_time",0
+Fine for a quick meal.,3,neutral,,0
+The washroom was filthy. Too noisy and cramped. Way too expensive for such small portions!,1,negative,"ambiance,cleanliness,price",0
+Came with family. Manager was dismissive when we complained.,2,negative,service,0
+Visited on a weekend. Polite and welcoming staff. Service was fast even on a busy night. Beautiful seating and a relaxed vibe!,5,positive,"ambiance,service,wait_time",0
+Lunch visit. Decent but not memorable.,3,neutral,,0
+Nobody seemed to care about the customers. Not worth the money at all.,2,negative,"price,service",0
+"Great value for money. Excellent service, they remembered our order.",4,positive,"price,service",0
+"thali was cooked to perfection. However, the washroom was filthy.",3,neutral,"cleanliness,food",0
+The place was spotless.,5,positive,cleanliness,0
+Crowded and chaotic atmosphere. Way too expensive for such small portions. The dal makhani was cold and tasteless.,1,negative,"ambiance,food,price",0
+The place was spotless. Food arrived quickly.,4,positive,"cleanliness,wait_time",0
+The waiter was careless and got our order wrong.,2,negative,service,0
+"Cozy decor and nice music! Excellent service, they remembered our order. Impressively hygienic restaurant!",5,positive,"ambiance,cleanliness,service",0
+Lunch visit. The place was spotless. Polite and welcoming staff.,5,positive,"cleanliness,service",0
+Service was fast even on a busy night.,5,positive,wait_time,0
+Lunch visit. Painfully slow service! The waiter was careless and got our order wrong.,1,negative,"service,wait_time",0
+Painfully slow service. Manager was dismissive when we complained. Not worth the money at all.,1,negative,"price,service,wait_time",0
+Came with family. Nobody seemed to care about the customers. The paneer tikka tasted off and disappointing. Not worth the money at all.,1,negative,"food,price,service",0
+Beautiful seating and a relaxed vibe! Staff were warm and attentive.,5,positive,"ambiance,service",0
+Came with family. Decent but not memorable.,3,neutral,,0
+It was okay.,3,neutral,,0
+Lunch visit. It was okay.,3,neutral,,0
+"Dinner here last night. Cutlery looked unwashed, pretty gross! Manager was dismissive when we complained.",1,negative,"cleanliness,service",0
+Polite and welcoming staff. The paneer tikka was absolutely delicious. Cozy decor and nice music!,4,positive,"ambiance,food,service",0
+Came with family. Waited 50 minutes for our food. The washroom was filthy!,1,negative,"cleanliness,wait_time",0
+Lunch visit. Manager was dismissive when we complained.,2,negative,service,0
+Lunch visit. The washroom was filthy.,1,negative,cleanliness,0
+Decent but not memorable.,3,neutral,,0
+Came with family. Polite and welcoming staff. Affordable and filling!,4,positive,"price,service",0
+"Tables and washrooms were very clean. No wait at all, seated immediately.",5,positive,"cleanliness,wait_time",0
+Dinner here last night. The washroom was filthy.,2,negative,cleanliness,0
+Lunch visit. Overpriced for what you get. Crowded and chaotic atmosphere.,1,negative,"ambiance,price",0
+"Dinner here last night. Lovely ambience, great for family dinners! However, the masala dosa tasted off and disappointing.",3,neutral,"ambiance,food",0
+Dinner here last night. The food here never disappoints. Our server was super helpful and friendly.,5,positive,"food,service",0
+Lunch visit. Service was fast even on a busy night! The team went out of their way to help us.,4,positive,"service,wait_time",0
+Came with family. Affordable and filling! Impressively hygienic restaurant. Food arrived quickly!,5,positive,"cleanliness,price,wait_time",0
+Came with family. Fine for a quick meal.,3,neutral,,0
+"Dinner here last night. The team went out of their way to help us. However, overcooked thali and no flavour.",2,neutral,"food,service",0
+Overpriced for what you get! Staff were rude and ignored us.,2,negative,"price,service",0
+Visited on a weekend. Impressively hygienic restaurant. Great value for money.,5,positive,"cleanliness,price",0
+Dinner here last night. Polite and welcoming staff. Service was fast even on a busy night. Totally worth what we paid.,5,positive,"price,service,wait_time",0
+"Very reasonable prices for the portion size! Food arrived quickly. Loved the masala dosa, so flavourful.",5,positive,"food,price,wait_time",0
+"Came with family. Lovely ambience, great for family dinners.",5,positive,ambiance,0
+Dinner here last night. Crowded and chaotic atmosphere.,2,negative,ambiance,0
+"Affordable and filling. However, crowded and chaotic atmosphere.",4,neutral,"ambiance,price",0
+Manager was dismissive when we complained.,2,negative,service,0
+"Excellent service, they remembered our order. Beautiful seating and a relaxed vibe. Tables and washrooms were very clean.",4,positive,"ambiance,cleanliness,service",0
+Impressively hygienic restaurant.,5,positive,cleanliness,0
+Dinner here last night. Cozy decor and nice music. Polite and welcoming staff. Totally worth what we paid!,4,positive,"ambiance,price,service",0
+Best masala dosa I've had in Jaipur. Food arrived quickly!,5,positive,"food,wait_time",0
+"Visited on a weekend. Best thali I've had in Jaipur. However, not worth the money at all.",3,neutral,"food,price",0
+"The place was spotless. However, food was stale and bland!",3,neutral,"cleanliness,food",0
+Lunch visit. Not worth the money at all. The masala dosa tasted off and disappointing!,2,negative,"food,price",0
+Tables were dirty and sticky. Staff were rude and ignored us.,1,negative,"cleanliness,service",0
+Dinner here last night. The waiter was careless and got our order wrong.,1,negative,service,0
+Visited on a weekend. The paneer tikka was absolutely delicious. Food arrived quickly.,4,positive,"food,wait_time",0
+Totally worth what we paid! Our server was super helpful and friendly. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,price,service",0
+Came with family. It was okay.,3,neutral,,0
+"Dinner here last night. Way too expensive for such small portions. Had to wait over an hour, ridiculous. Staff were rude and ignored us.",1,negative,"price,service,wait_time",0
+"Came with family. Had to wait over an hour, ridiculous. The AC was broken and it was unbearably hot.",1,negative,"ambiance,wait_time",0
+"Lovely ambience, great for family dinners! Best pasta I've had in Jaipur!",5,positive,"ambiance,food",0
+Totally worth what we paid. Food arrived quickly. The team went out of their way to help us.,4,positive,"price,service,wait_time",0
+Our server was super helpful and friendly. Food arrived quickly. Cozy decor and nice music!,4,positive,"ambiance,service,wait_time",0
+Lunch visit. Decent but not memorable.,3,neutral,,0
+biryani was cooked to perfection.,4,positive,food,0
+"Came with family. Polite and welcoming staff. Loved the masala dosa, so flavourful.",5,positive,"food,service",0
+Came with family. Not worth the money at all!,1,negative,price,0
+"Visited on a weekend. Had to wait over an hour, ridiculous. Staff were rude and ignored us. Very oily pasta, not worth eating.",1,negative,"food,service,wait_time",0
+"Loved the pasta, so flavourful.",4,positive,food,0
+"Way too expensive for such small portions. Nobody seemed to care about the customers! Cutlery looked unwashed, pretty gross.",1,negative,"cleanliness,price,service",0
+"Came with family. The place was spotless. Lovely ambience, great for family dinners.",4,positive,"ambiance,cleanliness",0
+Lunch visit. Decent but not memorable.,3,neutral,,0
+The AC was broken and it was unbearably hot. The waiter was careless and got our order wrong.,1,negative,"ambiance,service",0
+Visited on a weekend. Average experience.,3,neutral,,0
+"Food arrived quickly! Cozy decor and nice music. Loved the thali, so flavourful!",4,positive,"ambiance,food,wait_time",0
+"Dinner here last night. Beautiful seating and a relaxed vibe. However, overpriced for what you get!",3,neutral,"ambiance,price",0
+"Visited on a weekend. No wait at all, seated immediately. Excellent service, they remembered our order.",5,positive,"service,wait_time",0
+Average experience.,3,neutral,,0
+Dinner here last night. Cozy decor and nice music! Service was fast even on a busy night. Great value for money.,5,positive,"ambiance,price,wait_time",0
+Dinner here last night. Too noisy and cramped.,1,negative,ambiance,0
+"Staff were warm and attentive. However, the AC was broken and it was unbearably hot.",3,neutral,"ambiance,service",0
+Food arrived quickly! Beautiful seating and a relaxed vibe.,5,positive,"ambiance,wait_time",0
+The food here never disappoints.,5,positive,food,0
+Visited on a weekend. The place was spotless!,5,positive,cleanliness,0
+The waiter was careless and got our order wrong.,4,negative,service,0
+Average experience.,3,neutral,,0
+Lunch visit. Decent but not memorable.,3,neutral,,0
+Came with family. Too noisy and cramped. Overcooked paneer tikka and no flavour!,1,negative,"ambiance,food",0
+Dinner here last night. It was okay.,3,neutral,,0
+"Came with family. Loved the butter chicken, so flavourful. Food arrived quickly. Affordable and filling.",5,positive,"food,price,wait_time",0
+Came with family. Overcooked biryani and no flavour. Too noisy and cramped.,2,negative,"ambiance,food",0
+Dinner here last night. Cozy decor and nice music. The food here never disappoints. The place was spotless.,5,positive,"ambiance,cleanliness,food",0
+Tables and washrooms were very clean.,5,positive,cleanliness,0
+Visited on a weekend. Food arrived quickly. Cozy decor and nice music.,5,positive,"ambiance,wait_time",0
+Visited on a weekend. Service was fast even on a busy night. Beautiful seating and a relaxed vibe!,4,positive,"ambiance,wait_time",0
+Lunch visit. It was okay.,3,neutral,,0
+"Great value for money. Lovely ambience, great for family dinners. Great taste and the masala dosa was fresh.",5,positive,"ambiance,food,price",0
+"Lovely ambience, great for family dinners. Very reasonable prices for the portion size. Service was fast even on a busy night.",4,positive,"ambiance,price,wait_time",0
+Visited on a weekend. Food arrived quickly.,5,positive,wait_time,0
+"Came with family. Cutlery looked unwashed, pretty gross!",2,negative,cleanliness,0
+"Lunch visit. Lovely ambience, great for family dinners.",4,positive,ambiance,0
+The waiter was careless and got our order wrong. Too noisy and cramped.,2,negative,"ambiance,service",0
+Nothing special.,3,neutral,,0
+Average experience.,3,neutral,,0
+"Loved the thali, so flavourful. Great value for money. Impressively hygienic restaurant!",5,positive,"cleanliness,food,price",0
+Cozy decor and nice music. Service was fast even on a busy night.,2,positive,"ambiance,wait_time",0
+"Came with family. Great taste and the butter chicken was fresh. Lovely ambience, great for family dinners! Polite and welcoming staff.",4,positive,"ambiance,food,service",0
+"Lovely ambience, great for family dinners. However, the pasta tasted off and disappointing!",3,neutral,"ambiance,food",0
+Lunch visit. The team went out of their way to help us. The dal makhani was absolutely delicious!,5,positive,"food,service",0
+"Came with family. thali was cooked to perfection. However, overpriced for what you get.",3,neutral,"food,price",0
+"Lunch visit. Great value for money. Beautiful seating and a relaxed vibe. Loved the masala dosa, so flavourful.",5,positive,"ambiance,food,price",0
+"Lunch visit. Excellent service, they remembered our order. The chole bhature was absolutely delicious. The place was spotless.",4,positive,"cleanliness,food,service",0
+The AC was broken and it was unbearably hot! Not worth the money at all.,2,negative,"ambiance,price",0
+Great value for money!,5,positive,price,0
+Decent but not memorable.,3,neutral,,0
+Visited on a weekend. Decent but not memorable.,3,neutral,,0
+"Lunch visit. Loved the chole bhature, so flavourful.",5,positive,food,0
+"Came with family. Not worth the money at all. Overcooked dal makhani and no flavour. Had to wait over an hour, ridiculous.",2,negative,"food,price,wait_time",0
+"Impressively hygienic restaurant. Cozy decor and nice music! Loved the chole bhature, so flavourful.",4,positive,"ambiance,cleanliness,food",0
+Food took forever to arrive!,2,negative,wait_time,0
+Nothing special.,3,neutral,,0
+"Dinner here last night. Service was fast even on a busy night. However, overpriced for what you get.",3,neutral,"price,wait_time",0
+"Beautiful seating and a relaxed vibe. However, nobody seemed to care about the customers.",3,neutral,"ambiance,service",0
+Dinner here last night. Manager was dismissive when we complained.,1,negative,service,0
+Lunch visit. Painfully slow service! Manager was dismissive when we complained.,2,negative,"service,wait_time",0
+Decent but not memorable.,3,neutral,,0
+Dinner here last night. Waited 50 minutes for our food.,1,negative,wait_time,0
+"Lunch visit. Tables and washrooms were very clean. Loved the butter chicken, so flavourful. Food arrived quickly.",5,positive,"cleanliness,food,wait_time",0
+"Very reasonable prices for the portion size. Excellent service, they remembered our order.",5,positive,"price,service",0
+"Dinner here last night. No wait at all, seated immediately! The food here never disappoints!",4,positive,"food,wait_time",0
+"Visited on a weekend. Loved the butter chicken, so flavourful. Cozy decor and nice music.",5,positive,"ambiance,food",0
+Dinner here last night. Our server was super helpful and friendly. Totally worth what we paid.,5,positive,"price,service",0
+The place was spotless.,5,positive,cleanliness,0
+"Visited on a weekend. Great taste and the chole bhature was fresh! However, nobody seemed to care about the customers.",3,neutral,"food,service",0
+Dinner here last night. Nothing special.,3,neutral,,0
+"Lunch visit. Lovely ambience, great for family dinners. The place was spotless!",4,positive,"ambiance,cleanliness",0
+Overcooked biryani and no flavour. Food took forever to arrive.,1,negative,"food,wait_time",0
+"Visited on a weekend. No wait at all, seated immediately. Polite and welcoming staff.",4,positive,"service,wait_time",0
+Food was stale and bland.,1,negative,food,0
+Dinner here last night. Too noisy and cramped.,1,negative,ambiance,0
+"Lunch visit. Very oily biryani, not worth eating. Waited 50 minutes for our food. The waiter was careless and got our order wrong.",2,negative,"food,service,wait_time",0
+Lunch visit. Fine for a quick meal.,3,neutral,,0
+The chole bhature tasted off and disappointing.,2,negative,food,0
+Great value for money. Service was fast even on a busy night! Our server was super helpful and friendly.,5,positive,"price,service,wait_time",0
+Decent but not memorable.,3,neutral,,0
+Visited on a weekend. Overpriced for what you get!,4,negative,price,0
+Painfully slow service.,1,negative,wait_time,0
+Came with family. Totally worth what we paid.,4,positive,price,0
+"Cozy decor and nice music! Best biryani I've had in Jaipur. No wait at all, seated immediately.",5,positive,"ambiance,food,wait_time",0
+"Came with family. Impressively hygienic restaurant! No wait at all, seated immediately.",5,positive,"cleanliness,wait_time",0
+Came with family. The paneer tikka was cold and tasteless.,1,negative,food,0
+"Visited on a weekend. The team went out of their way to help us. However, the chole bhature was cold and tasteless!",3,neutral,"food,service",0
+The place was spotless! Affordable and filling.,5,positive,"cleanliness,price",0
+"Lunch visit. No wait at all, seated immediately. Polite and welcoming staff. Loved the paneer tikka, so flavourful.",5,positive,"food,service,wait_time",0
+Dinner here last night. Impressively hygienic restaurant. Great taste and the dal makhani was fresh.,5,positive,"cleanliness,food",0
+Lunch visit. The place was spotless. Cozy decor and nice music!,5,positive,"ambiance,cleanliness",0
+Cozy decor and nice music! Impressively hygienic restaurant.,5,positive,"ambiance,cleanliness",0
+Polite and welcoming staff. Service was fast even on a busy night.,5,positive,"service,wait_time",0
+Visited on a weekend. Beautiful seating and a relaxed vibe. The place was spotless.,5,positive,"ambiance,cleanliness",0
+Impressively hygienic restaurant. butter chicken was cooked to perfection.,4,positive,"cleanliness,food",0
+Dinner here last night. The food here never disappoints!,5,positive,food,0
+Came with family. Beautiful seating and a relaxed vibe. Best butter chicken I've had in Jaipur.,4,positive,"ambiance,food",0
+Visited on a weekend. Totally worth what we paid. Beautiful seating and a relaxed vibe. The food here never disappoints.,5,positive,"ambiance,food,price",0
+"Dinner here last night. Great value for money! However, the butter chicken was cold and tasteless.",3,neutral,"food,price",0
+Visited on a weekend. biryani was cooked to perfection.,5,positive,food,0
+"Dinner here last night. Excellent service, they remembered our order. However, crowded and chaotic atmosphere.",3,neutral,"ambiance,service",0
+Came with family. Polite and welcoming staff.,5,positive,service,0
+"Dinner here last night. Cutlery looked unwashed, pretty gross. Had to wait over an hour, ridiculous.",2,negative,"cleanliness,wait_time",0
+Lunch visit. The waiter was careless and got our order wrong!,1,negative,service,0
+Dinner here last night. The biryani was absolutely delicious! Cozy decor and nice music.,5,positive,"ambiance,food",0
+Manager was dismissive when we complained.,2,negative,service,0
+"Dinner here last night. Loved the dal makhani, so flavourful.",5,positive,food,0
+Dinner here last night. Nothing special.,3,neutral,,0
+"Beautiful seating and a relaxed vibe. However, the washroom was filthy.",3,neutral,"ambiance,cleanliness",0
+Lunch visit. The chole bhature was absolutely delicious. Tables and washrooms were very clean.,5,positive,"cleanliness,food",0
+Lunch visit. Crowded and chaotic atmosphere!,2,negative,ambiance,0
+The thali was absolutely delicious. The place was spotless.,5,positive,"cleanliness,food",0
+Nobody seemed to care about the customers!,1,negative,service,0
+Visited on a weekend. Affordable and filling. Cozy decor and nice music.,5,positive,"ambiance,price",0
+Came with family. Polite and welcoming staff! Great value for money!,4,positive,"price,service",0
+Beautiful seating and a relaxed vibe. Tables and washrooms were very clean.,5,positive,"ambiance,cleanliness",0
+Lunch visit. Food arrived quickly! Cozy decor and nice music.,5,positive,"ambiance,wait_time",0
+Waited 50 minutes for our food. Crowded and chaotic atmosphere.,1,negative,"ambiance,wait_time",0
+"Lovely ambience, great for family dinners! Tables and washrooms were very clean. Best paneer tikka I've had in Jaipur.",4,positive,"ambiance,cleanliness,food",0
+The AC was broken and it was unbearably hot.,2,negative,ambiance,0
+The waiter was careless and got our order wrong! Painfully slow service.,1,negative,"service,wait_time",0
+Overpriced for what you get.,1,negative,price,0
+"Beautiful seating and a relaxed vibe! However, nobody seemed to care about the customers.",3,neutral,"ambiance,service",0
+Visited on a weekend. Our server was super helpful and friendly. The place was spotless.,5,positive,"cleanliness,service",0
+Visited on a weekend. Service was fast even on a busy night. The pasta was absolutely delicious! Tables and washrooms were very clean.,5,positive,"cleanliness,food,wait_time",0
+The dal makhani was cold and tasteless.,1,negative,food,0
+Lunch visit. Beautiful seating and a relaxed vibe. Totally worth what we paid!,4,positive,"ambiance,price",0
+"Lovely ambience, great for family dinners. However, painfully slow service!",3,neutral,"ambiance,wait_time",0
+Dinner here last night. Best chole bhature I've had in Jaipur! Service was fast even on a busy night.,5,positive,"food,wait_time",0
+Lunch visit. Totally worth what we paid. The food here never disappoints!,5,positive,"food,price",0
+Visited on a weekend. Great value for money! Best masala dosa I've had in Jaipur.,5,positive,"food,price",0
+Came with family. Impressively hygienic restaurant! Beautiful seating and a relaxed vibe. Food arrived quickly!,4,positive,"ambiance,cleanliness,wait_time",0
+Not worth the money at all.,2,negative,price,0
+It was okay.,3,neutral,,0
+"No wait at all, seated immediately. The chole bhature was absolutely delicious. Cozy decor and nice music.",5,positive,"ambiance,food,wait_time",0
+Decent but not memorable.,3,neutral,,0
+Great value for money. Tables and washrooms were very clean. Cozy decor and nice music.,4,positive,"ambiance,cleanliness,price",0
+Visited on a weekend. The waiter was careless and got our order wrong.,1,negative,service,0
+Visited on a weekend. Average experience.,3,neutral,,0
+"Came with family. Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+Food took forever to arrive.,1,negative,wait_time,0
+Dinner here last night. The paneer tikka was absolutely delicious! Service was fast even on a busy night.,4,positive,"food,wait_time",0
+Lunch visit. Average experience.,3,neutral,,0
+Cozy decor and nice music!,4,positive,ambiance,0
+Polite and welcoming staff. The place was spotless.,5,positive,"cleanliness,service",0
+"Visited on a weekend. Beautiful seating and a relaxed vibe. However, tables were dirty and sticky.",3,neutral,"ambiance,cleanliness",0
+Dinner here last night. Impressively hygienic restaurant! The food here never disappoints.,5,positive,"cleanliness,food",0
+Dinner here last night. Service was fast even on a busy night.,4,positive,wait_time,0
+"Came with family. No wait at all, seated immediately. However, way too expensive for such small portions!",3,neutral,"price,wait_time",0
+"Polite and welcoming staff. However, food took forever to arrive!",3,neutral,"service,wait_time",0
+Dinner here last night. Way too expensive for such small portions.,2,negative,price,0
+"Tables and washrooms were very clean! However, very oily dal makhani, not worth eating.",3,neutral,"cleanliness,food",0
+Fine for a quick meal.,3,neutral,,0
+Dinner here last night. The masala dosa tasted off and disappointing. Manager was dismissive when we complained. The AC was broken and it was unbearably hot.,1,negative,"ambiance,food,service",0
+"No wait at all, seated immediately. Tables and washrooms were very clean! Very reasonable prices for the portion size.",4,positive,"cleanliness,price,wait_time",0
+Manager was dismissive when we complained. Overpriced for what you get!,1,negative,"price,service",0
+Visited on a weekend. Overcooked pasta and no flavour!,1,negative,food,0
+"Visited on a weekend. Impressively hygienic restaurant. Excellent service, they remembered our order.",5,positive,"cleanliness,service",0
+"Came with family. Very reasonable prices for the portion size. Lovely ambience, great for family dinners!",5,positive,"ambiance,price",0
+"Very reasonable prices for the portion size. Lovely ambience, great for family dinners.",4,positive,"ambiance,price",0
+"Great value for money. Service was fast even on a busy night! Loved the dal makhani, so flavourful.",5,positive,"food,price,wait_time",0
+Came with family. Painfully slow service!,1,negative,wait_time,0
+"Visited on a weekend. Cutlery looked unwashed, pretty gross.",2,negative,cleanliness,0
+Visited on a weekend. Painfully slow service.,1,negative,wait_time,0
+Came with family. The place was spotless.,4,positive,cleanliness,0
+Came with family. Our server was super helpful and friendly!,5,positive,service,0
+"Dinner here last night. Loved the thali, so flavourful. However, too noisy and cramped!",3,neutral,"ambiance,food",0
+Lunch visit. Painfully slow service! Way too expensive for such small portions.,1,negative,"price,wait_time",0
+Dinner here last night. The butter chicken was cold and tasteless. Overpriced for what you get.,1,negative,"food,price",0
+"Tables were dirty and sticky. Had to wait over an hour, ridiculous.",1,negative,"cleanliness,wait_time",0
+Visited on a weekend. Great value for money. Service was fast even on a busy night.,4,positive,"price,wait_time",0
+"Visited on a weekend. Staff were rude and ignored us. Cutlery looked unwashed, pretty gross.",2,negative,"cleanliness,service",0
+Cozy decor and nice music. Food arrived quickly! Tables and washrooms were very clean.,5,positive,"ambiance,cleanliness,wait_time",0
+Lunch visit. The biryani was cold and tasteless.,1,negative,food,0
+Visited on a weekend. Cozy decor and nice music.,5,positive,ambiance,0
+"Crowded and chaotic atmosphere. Very oily butter chicken, not worth eating.",2,negative,"ambiance,food",0
+"Came with family. Service was fast even on a busy night. Lovely ambience, great for family dinners.",5,positive,"ambiance,wait_time",0
+Dinner here last night. Tables were dirty and sticky.,1,negative,cleanliness,0
+Impressively hygienic restaurant! Staff were warm and attentive.,4,positive,"cleanliness,service",0
+"Came with family. Cozy decor and nice music! However, overpriced for what you get.",3,neutral,"ambiance,price",0
+"Visited on a weekend. Excellent service, they remembered our order. However, tables were dirty and sticky.",3,neutral,"cleanliness,service",0
+Came with family. Tables were dirty and sticky.,1,negative,cleanliness,0
+Totally worth what we paid.,5,positive,price,0
+"Dinner here last night. Very oily dal makhani, not worth eating.",1,negative,food,0
+"Lunch visit. Loved the paneer tikka, so flavourful.",5,positive,food,0
+Visited on a weekend. Not worth the money at all. Tables were dirty and sticky.,1,negative,"cleanliness,price",0
+Visited on a weekend. The waiter was careless and got our order wrong. Tables were dirty and sticky.,1,negative,"cleanliness,service",0
+"Had to wait over an hour, ridiculous.",2,negative,wait_time,0
+Nobody seemed to care about the customers. The washroom was filthy!,1,negative,"cleanliness,service",0
+"Dinner here last night. Lovely ambience, great for family dinners. However, had to wait over an hour, ridiculous.",3,neutral,"ambiance,wait_time",0
+Came with family. Cozy decor and nice music! Tables and washrooms were very clean.,4,positive,"ambiance,cleanliness",0
+Staff were rude and ignored us. Too noisy and cramped.,1,negative,"ambiance,service",0
+Impressively hygienic restaurant! Cozy decor and nice music.,4,positive,"ambiance,cleanliness",0
+Visited on a weekend. Tables and washrooms were very clean.,5,positive,cleanliness,0
+"Dinner here last night. Too noisy and cramped. The waiter was careless and got our order wrong. Cutlery looked unwashed, pretty gross.",1,negative,"ambiance,cleanliness,service",0
+"Manager was dismissive when we complained. Had to wait over an hour, ridiculous.",2,negative,"service,wait_time",0
+"Came with family. Totally worth what we paid. No wait at all, seated immediately.",5,positive,"price,wait_time",0
+Lunch visit. Best biryani I've had in Jaipur. Great value for money.,5,positive,"food,price",0
+"Visited on a weekend. Impressively hygienic restaurant. Lovely ambience, great for family dinners. Loved the masala dosa, so flavourful.",4,positive,"ambiance,cleanliness,food",0
+"Dinner here last night. No wait at all, seated immediately. However, food was stale and bland.",3,neutral,"food,wait_time",0
+Came with family. Very reasonable prices for the portion size. Our server was super helpful and friendly.,5,positive,"price,service",0
+Food was stale and bland. The waiter was careless and got our order wrong!,1,negative,"food,service",0
+Visited on a weekend. Way too expensive for such small portions. The washroom was filthy. The pasta was cold and tasteless.,1,negative,"cleanliness,food,price",0
+Great taste and the thali was fresh. Cozy decor and nice music!,5,positive,"ambiance,food",0
+"Visited on a weekend. Polite and welcoming staff. No wait at all, seated immediately.",5,positive,"service,wait_time",0
+The food here never disappoints! Affordable and filling.,4,positive,"food,price",0
+Visited on a weekend. Crowded and chaotic atmosphere. Overpriced for what you get!,1,negative,"ambiance,price",0
+Lunch visit. Very reasonable prices for the portion size! The team went out of their way to help us! masala dosa was cooked to perfection.,5,positive,"food,price,service",0
+Lunch visit. The butter chicken was absolutely delicious! Food arrived quickly. Totally worth what we paid!,5,positive,"food,price,wait_time",0
+"Lovely ambience, great for family dinners! However, the biryani tasted off and disappointing!",3,neutral,"ambiance,food",0
+The washroom was filthy! Nobody seemed to care about the customers!,1,negative,"cleanliness,service",0
+Visited on a weekend. Polite and welcoming staff.,5,positive,service,0
+Dinner here last night. Nobody seemed to care about the customers. Not worth the money at all.,1,negative,"price,service",0
+Affordable and filling! The place was spotless!,5,positive,"cleanliness,price",0
+Dinner here last night. Fine for a quick meal.,3,neutral,,0
+Our server was super helpful and friendly!,5,positive,service,0
+Overcooked paneer tikka and no flavour.,4,negative,food,0
+Painfully slow service. Nobody seemed to care about the customers.,1,negative,"service,wait_time",0
+Not worth the money at all. The AC was broken and it was unbearably hot.,1,negative,"ambiance,price",0
+Visited on a weekend. Nothing special.,3,neutral,,0
+Decent but not memorable.,3,neutral,,0
+"Dinner here last night. No wait at all, seated immediately. Very reasonable prices for the portion size.",5,positive,"price,wait_time",0
+"Dinner here last night. Great value for money. However, too noisy and cramped!",3,neutral,"ambiance,price",0
+"Our server was super helpful and friendly. Lovely ambience, great for family dinners.",5,positive,"ambiance,service",0
+Lunch visit. Food was stale and bland.,2,negative,food,0
+Came with family. Best butter chicken I've had in Jaipur. Food arrived quickly! Very reasonable prices for the portion size!,4,positive,"food,price,wait_time",0
+Decent but not memorable.,3,neutral,,0
+"Visited on a weekend. Excellent service, they remembered our order. Impressively hygienic restaurant!",4,positive,"cleanliness,service",0
+Lunch visit. Beautiful seating and a relaxed vibe. Staff were warm and attentive.,5,positive,"ambiance,service",0
+"Visited on a weekend. Totally worth what we paid! However, the biryani tasted off and disappointing.",3,neutral,"food,price",0
+Dinner here last night. The paneer tikka tasted off and disappointing. Way too expensive for such small portions. The washroom was filthy.,1,negative,"cleanliness,food,price",0
+Crowded and chaotic atmosphere.,1,negative,ambiance,0
+"Visited on a weekend. The AC was broken and it was unbearably hot! Cutlery looked unwashed, pretty gross. Food was stale and bland.",1,negative,"ambiance,cleanliness,food",0
+The food here never disappoints. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,food",0
+Food arrived quickly. The thali was absolutely delicious. Impressively hygienic restaurant.,5,positive,"cleanliness,food,wait_time",0
+"Impressively hygienic restaurant. However, manager was dismissive when we complained.",3,neutral,"cleanliness,service",0
+Dinner here last night. Great value for money. The place was spotless.,5,positive,"cleanliness,price",0
+Manager was dismissive when we complained.,2,negative,service,0
+Lunch visit. Waited 50 minutes for our food! Manager was dismissive when we complained.,2,negative,"service,wait_time",0
+"Lovely ambience, great for family dinners. Great value for money.",4,positive,"ambiance,price",0
+Cozy decor and nice music. The team went out of their way to help us.,5,positive,"ambiance,service",0
+"Lunch visit. Excellent service, they remembered our order. Cozy decor and nice music.",5,positive,"ambiance,service",0
+"No wait at all, seated immediately. The place was spotless.",5,positive,"cleanliness,wait_time",0
+"Visited on a weekend. Tables and washrooms were very clean. However, overcooked dal makhani and no flavour.",3,neutral,"cleanliness,food",0
+Lunch visit. Beautiful seating and a relaxed vibe! Food arrived quickly. thali was cooked to perfection.,5,positive,"ambiance,food,wait_time",0
+"Very reasonable prices for the portion size! No wait at all, seated immediately! Staff were warm and attentive.",5,positive,"price,service,wait_time",0
+Lunch visit. The food here never disappoints! Great value for money!,5,positive,"food,price",0
+"Dinner here last night. Tables and washrooms were very clean! No wait at all, seated immediately.",4,positive,"cleanliness,wait_time",0
+"Excellent service, they remembered our order. biryani was cooked to perfection.",5,positive,"food,service",0
+"Loved the butter chicken, so flavourful. Tables and washrooms were very clean!",5,positive,"cleanliness,food",0
+Visited on a weekend. The food here never disappoints. Great value for money.,5,positive,"food,price",0
+"Cutlery looked unwashed, pretty gross. Not worth the money at all.",1,negative,"cleanliness,price",0
+"Lunch visit. Cutlery looked unwashed, pretty gross. The waiter was careless and got our order wrong!",1,negative,"cleanliness,service",0
+"Excellent service, they remembered our order. Great taste and the biryani was fresh.",5,positive,"food,service",0
+"Lunch visit. Tables and washrooms were very clean. However, painfully slow service.",3,neutral,"cleanliness,wait_time",0
+Not worth the money at all.,1,negative,price,0
+Cozy decor and nice music.,5,positive,ambiance,0
+"Polite and welcoming staff. Great taste and the pasta was fresh. Lovely ambience, great for family dinners.",5,positive,"ambiance,food,service",0
+Came with family. Way too expensive for such small portions. Too noisy and cramped! Staff were rude and ignored us.,1,negative,"ambiance,price,service",0
+"Visited on a weekend. Service was fast even on a busy night! However, too noisy and cramped.",4,neutral,"ambiance,wait_time",0
+Lunch visit. Average experience.,3,neutral,,0
+Lunch visit. The biryani tasted off and disappointing.,2,negative,food,0
+Fine for a quick meal.,3,neutral,,0
+Came with family. Overcooked biryani and no flavour. Too noisy and cramped.,1,negative,"ambiance,food",0
+Great value for money! Tables and washrooms were very clean.,4,positive,"cleanliness,price",0
+"Visited on a weekend. Great taste and the masala dosa was fresh. However, food took forever to arrive.",3,neutral,"food,wait_time",0
+Came with family. The place was spotless. Polite and welcoming staff.,4,positive,"cleanliness,service",0
+"Had to wait over an hour, ridiculous. Tables were dirty and sticky.",2,negative,"cleanliness,wait_time",0
+The food here never disappoints. Tables and washrooms were very clean. Food arrived quickly!,5,positive,"cleanliness,food,wait_time",0
+Came with family. The dal makhani was cold and tasteless!,1,negative,food,0
+"Lunch visit. Great value for money! However, the AC was broken and it was unbearably hot.",3,neutral,"ambiance,price",0
+Dinner here last night. Food was stale and bland.,1,negative,food,0
+Came with family. Painfully slow service. The waiter was careless and got our order wrong! The washroom was filthy.,1,negative,"cleanliness,service,wait_time",0
+"Had to wait over an hour, ridiculous!",1,negative,wait_time,0
+Overpriced for what you get.,2,negative,price,0
+Dinner here last night. The washroom was filthy. Nobody seemed to care about the customers!,1,negative,"cleanliness,service",0
+"No wait at all, seated immediately. Great value for money.",5,positive,"price,wait_time",0
+"Lunch visit. Had to wait over an hour, ridiculous!",1,negative,wait_time,0
+Visited on a weekend. Tables and washrooms were very clean. Beautiful seating and a relaxed vibe.,5,positive,"ambiance,cleanliness",0
+Visited on a weekend. Beautiful seating and a relaxed vibe. Tables and washrooms were very clean!,5,positive,"ambiance,cleanliness",0
+It was okay.,3,neutral,,0
+Polite and welcoming staff. Great taste and the chole bhature was fresh.,5,positive,"food,service",0
+"Came with family. Lovely ambience, great for family dinners. However, had to wait over an hour, ridiculous.",3,neutral,"ambiance,wait_time",0
+The waiter was careless and got our order wrong. Food was stale and bland.,1,negative,"food,service",0
+Nothing special.,3,neutral,,0
+"Dinner here last night. Cutlery looked unwashed, pretty gross! Food was stale and bland! Overpriced for what you get!",2,negative,"cleanliness,food,price",0
+Dinner here last night. Food was stale and bland!,1,negative,food,0
+Lunch visit. Food arrived quickly. Best chole bhature I've had in Jaipur.,5,positive,"food,wait_time",0
+Totally worth what we paid! The biryani was absolutely delicious.,5,positive,"food,price",0
+Dinner here last night. Painfully slow service. The waiter was careless and got our order wrong!,1,negative,"service,wait_time",0
+The AC was broken and it was unbearably hot! Overpriced for what you get.,2,negative,"ambiance,price",0
+"Lunch visit. Beautiful seating and a relaxed vibe. However, the waiter was careless and got our order wrong.",3,neutral,"ambiance,service",0
+"Dinner here last night. Lovely ambience, great for family dinners.",5,positive,ambiance,0
+"Lunch visit. Affordable and filling. However, tables were dirty and sticky.",3,neutral,"cleanliness,price",0
+Waited 50 minutes for our food! Staff were rude and ignored us. Overpriced for what you get.,1,negative,"price,service,wait_time",0
+Lunch visit. Tables and washrooms were very clean.,2,positive,cleanliness,0
+Beautiful seating and a relaxed vibe. Food arrived quickly. Best dal makhani I've had in Jaipur.,4,positive,"ambiance,food,wait_time",0
+Came with family. The food here never disappoints! Affordable and filling.,5,positive,"food,price",0
+Nobody seemed to care about the customers. Overpriced for what you get. Food took forever to arrive!,1,negative,"price,service,wait_time",0
+"Crowded and chaotic atmosphere. Overcooked pasta and no flavour. Cutlery looked unwashed, pretty gross.",2,negative,"ambiance,cleanliness,food",0
+Waited 50 minutes for our food.,1,negative,wait_time,0
+Lunch visit. Beautiful seating and a relaxed vibe. Food arrived quickly.,5,positive,"ambiance,wait_time",0
+Too noisy and cramped.,1,negative,ambiance,0
+"Visited on a weekend. Lovely ambience, great for family dinners. The place was spotless.",4,positive,"ambiance,cleanliness",0
+Came with family. The waiter was careless and got our order wrong!,5,negative,service,0
+Very reasonable prices for the portion size. Polite and welcoming staff!,5,positive,"price,service",0
+Dinner here last night. Fine for a quick meal.,3,neutral,,0
+"Cozy decor and nice music. However, waited 50 minutes for our food.",3,neutral,"ambiance,wait_time",0
+"Lovely ambience, great for family dinners. thali was cooked to perfection!",5,positive,"ambiance,food",0
+Lunch visit. Totally worth what we paid. Beautiful seating and a relaxed vibe!,5,positive,"ambiance,price",0
+Dinner here last night. The place was spotless! Totally worth what we paid!,4,positive,"cleanliness,price",0
+Lunch visit. Manager was dismissive when we complained. The AC was broken and it was unbearably hot!,2,negative,"ambiance,service",0
+Crowded and chaotic atmosphere!,2,negative,ambiance,0
+The masala dosa tasted off and disappointing.,2,negative,food,0
+Lunch visit. The chole bhature tasted off and disappointing. Painfully slow service.,1,negative,"food,wait_time",0
+"Dinner here last night. Affordable and filling. Lovely ambience, great for family dinners.",2,positive,"ambiance,price",0
+Visited on a weekend. Too noisy and cramped! The waiter was careless and got our order wrong.,2,negative,"ambiance,service",0
+Lunch visit. Great taste and the thali was fresh. Impressively hygienic restaurant.,4,positive,"cleanliness,food",0
+Visited on a weekend. The AC was broken and it was unbearably hot! Tables were dirty and sticky.,1,negative,"ambiance,cleanliness",0
+Great value for money. Impressively hygienic restaurant.,4,positive,"cleanliness,price",0
+"Visited on a weekend. Lovely ambience, great for family dinners! However, not worth the money at all!",3,neutral,"ambiance,price",0
+Not worth the money at all! Food took forever to arrive.,1,negative,"price,wait_time",0
+"Visited on a weekend. Manager was dismissive when we complained. Very oily thali, not worth eating. Painfully slow service.",1,negative,"food,service,wait_time",0
+The thali tasted off and disappointing!,1,negative,food,0
+"Loved the thali, so flavourful. However, manager was dismissive when we complained.",3,neutral,"food,service",0
+Visited on a weekend. Food arrived quickly. dal makhani was cooked to perfection!,5,positive,"food,wait_time",0
+"Came with family. Cutlery looked unwashed, pretty gross. Too noisy and cramped.",2,negative,"ambiance,cleanliness",0
+"Dinner here last night. Cutlery looked unwashed, pretty gross.",2,negative,cleanliness,0
+Came with family. The washroom was filthy. Not worth the money at all.,1,negative,"cleanliness,price",0
+The AC was broken and it was unbearably hot.,1,negative,ambiance,0
+The waiter was careless and got our order wrong.,1,negative,service,0
+Lunch visit. Staff were rude and ignored us.,1,negative,service,0
+"Lovely ambience, great for family dinners! Totally worth what we paid.",5,positive,"ambiance,price",0
+The place was spotless.,5,positive,cleanliness,0
+The biryani was cold and tasteless! Too noisy and cramped!,1,negative,"ambiance,food",0

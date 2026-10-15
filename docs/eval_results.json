@@ -1,0 +1,170 @@
+{
+  "n_train_synthetic": 900,
+  "n_gold": 60,
+  "sentiment": {
+    "vader_default": {
+      "accuracy": 0.583,
+      "macro_f1": 0.511,
+      "confusion(rows=true,cols=pred;neg,neu,pos)": [
+        [
+          16,
+          8,
+          6
+        ],
+        [
+          2,
+          2,
+          6
+        ],
+        [
+          0,
+          3,
+          17
+        ]
+      ]
+    },
+    "tfidf_lr": {
+      "accuracy": 0.683,
+      "macro_f1": 0.662,
+      "confusion(rows=true,cols=pred;neg,neu,pos)": [
+        [
+          21,
+          2,
+          7
+        ],
+        [
+          1,
+          6,
+          3
+        ],
+        [
+          4,
+          2,
+          14
+        ]
+      ]
+    },
+    "hybrid_tfidf_vader_lr": {
+      "accuracy": 0.733,
+      "macro_f1": 0.697,
+      "confusion(rows=true,cols=pred;neg,neu,pos)": [
+        [
+          22,
+          4,
+          4
+        ],
+        [
+          1,
+          6,
+          3
+        ],
+        [
+          2,
+          2,
+          16
+        ]
+      ]
+    }
+  },
+  "sentiment_hinglish_slice": {
+    "n": 4,
+    "hybrid_accuracy": 0.25,
+    "vader_accuracy": 0.25
+  },
+  "aspects_micro": {
+    "precision": 0.885,
+    "recall": 0.979,
+    "f1": 0.929
+  },
+  "risk_detector": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "true_positives": 11,
+    "false_positives": 0,
+    "false_negatives": 0
+  },
+  "risk_detector_challenge_set": {
+    "n": 16,
+    "n_high_risk": 8,
+    "precision": 0.167,
+    "recall": 0.125,
+    "f1": 0.143,
+    "missed": [
+      "The chicken curry made me really ill, spent the whole night in the bathroom.",
+      "A piece of glass was in my dessert, I almost swallowed it!",
+      "Our group of six all threw up after the buffet. Never eating here again.",
+      "I have filed a consumer complaint against this restaurant.",
+      "Waiter made inappropriate comments to my wife and would not stop.",
+      "Saw a mouse running across the dining floor.",
+      "My son is allergic to nuts and they ignored it, he collapsed at the table."
+    ],
+    "false_alarms": [
+      "The police station next door makes parking easy. Food was great.",
+      "Hospital-level cleanliness, the kitchen is spotless.",
+      "I felt sick of waiting 45 minutes for a coffee.",
+      "Fever pitch atmosphere during the match, loved it!",
+      "A lawyer at the next table was telling jokes, super fun evening."
+    ],
+    "note": "written after rules were frozen; small n, so treat as indicative only"
+  },
+  "routing_gold": {
+    "route_counts": {
+      "human_review": 34,
+      "auto_publish": 15,
+      "escalate": 11
+    },
+    "high_risk_reviews_auto_published": 0,
+    "negative_reviews_auto_published": 0,
+    "auto_publish_precision_truly_positive": 1.0,
+    "auto_publish_share": 0.25,
+    "escalated_that_were_truly_high_risk": "11/11",
+    "template_draft_guardrail_violations": 0
+  },
+  "alerts_demo_stream": {
+    "n_reviews": 533,
+    "alerts": [
+      {
+        "location": "C-Scheme",
+        "kind": "WATCH",
+        "first_detected": "2026-09-19",
+        "detail": "1 high-risk review(s): legal_regulatory"
+      },
+      {
+        "location": "Malviya Nagar",
+        "kind": "WATCH",
+        "first_detected": "2026-09-26",
+        "detail": "1 high-risk review(s): fraud_billing"
+      },
+      {
+        "location": "Mansarovar",
+        "kind": "TREND:service",
+        "first_detected": "2026-10-10",
+        "detail": "service complaints in 32% of reviews vs 6% baseline (z=3.5, n=25/7d)"
+      },
+      {
+        "location": "Vaishali Nagar",
+        "kind": "WATCH",
+        "first_detected": "2026-10-12",
+        "detail": "1 high-risk review(s): health_safety"
+      },
+      {
+        "location": "Vaishali Nagar",
+        "kind": "CRISIS",
+        "first_detected": "2026-10-13",
+        "detail": "7 health/safety reports in 3 days"
+      }
+    ],
+    "crisis_detected_at_vaishali": true
+  },
+  "alerts_multiseed": {
+    "n_streams": 30,
+    "crisis_detected": "30/30",
+    "crisis_detected_by_2nd_report_day": "30/30",
+    "streams_with_false_crisis": 0,
+    "trend_detected_at_mansarovar": "20/30",
+    "median_days_after_drift_start": 6.0,
+    "false_trend_alerts_location_runs": "17/120",
+    "note": "tuned on seeds 100-115, reported on unseen seeds 200-229; synthetic data from my own generator"
+  }
+}

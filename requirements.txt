@@ -1,0 +1,11 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+scipy>=1.11
+vaderSentiment>=3.3.2
+streamlit>=1.40
+matplotlib>=3.8
+pytest>=8.0
+# Optional, only for LLM drafting / risk second opinion:
+# anthropic>=0.30      (set ANTHROPIC_API_KEY)
+# OpenAI-compatible APIs need no extra package (set OPENAI_API_KEY)
